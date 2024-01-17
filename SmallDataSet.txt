@@ -1,4 +1,4 @@
-Location,roomNumber,Type(Single double etc.), 
+Location,roomNumber,Type(Single double etc.)
 Munger,MUN 034,Single
 Munger,MUN 036,Single
 Munger,MUN 047,Triple
