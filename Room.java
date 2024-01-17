@@ -1,9 +1,9 @@
 
 public class Room{
-    String location;
-    String type;
-    String roomNumber;
-    // int floor;
+    private String location;
+    private String type;
+    private String roomNumber;
+    //private int floor;
 
     public Room(String l, String t, String r){
         location = l;
@@ -34,5 +34,10 @@ public class Room{
     public void setLocation(String l){
         location = l;
     }
+    /*
+     * public int getFloor() {
+     *      return floor;
+     * }
+     */
 
 }
