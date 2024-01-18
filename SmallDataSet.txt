@@ -1,12 +1,14 @@
-Location,roomNumber,Type(Single double etc.)
 Munger,MUN 034,Single
 Munger,MUN 036,Single
 Munger,MUN 047,Triple
 Munger,MUN 101,First-Year Double
 Munger,MUN 105,Single
 Munger,MUN 109,Res Staff
-Munger,Mun 225,Upperclass Double
-Munger,Mun 312,Single
+Munger,MUN 225,Upperclass Double
+Munger,MUN 312,Single
 Pomeroy,POM 101,First-Year Double
 Pomeroy,POM 223,Single
-Pomeroy,Pom 203,Upperclass DOuble
+Pomeroy,Pom 203,Upperclass Double
+Tower Court,TCW 540,Single 
+Tower Court,TCW 541,Single 
+Tower Court,TCW 542,Single 

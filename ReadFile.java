@@ -1,6 +1,7 @@
 import java.util.*;
 import java.io.*;
-public class ReadFile{
+
+public class ReadFile {
     private ArrayList<Building> wellesley;
 
     public ReadFile(String fn) throws IOException{
@@ -34,15 +35,13 @@ public class ReadFile{
         }
     }
 
-   
-
     // private Building createBuidling(String line) {
-    //     String[] tokens = line.split(",");
+    // String[] tokens = line.split(",");
     // }
 
     // private Room createRoom(String line){`
-    //     //decide which location it belongs to
-    //     Room finir = new Room(building, type, roomNum);
-    //     return finir;
+    // //decide which location it belongs to
+    // Room finir = new Room(building, type, roomNum);
+    // return finir;
     // }
 }
