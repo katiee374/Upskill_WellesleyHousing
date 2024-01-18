@@ -1,10 +1,10 @@
-import java.util.Scanner;
+import java.util.*;
 import java.io.*;
 public class ReadFile{
-    private Wellesley wellesley;
+    private ArrayList<Building> wellesley;
 
     public ReadFile(String fn) throws IOException{
-        wellesley = new Wellesley();
+        wellesley = new ArrayList<Building>();
         Scanner bob = new Scanner(new File(fn));
         Room tempRoom;
         Building tempBuilding = new Building("Bates");
