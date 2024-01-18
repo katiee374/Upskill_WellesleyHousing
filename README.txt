@@ -1,6 +1,7 @@
+## README File 
 This is the new README File. Haha, look 
-We are changing the file, hehe. Induce a merge conflict.
-Changing again in case this didn't work.
+We are changing the file, hehe. Induce a merge conflict
 
+Changing again in case this didn't
 
-This is the old README File......
+This IS A CHANGE
