@@ -1,5 +1,5 @@
 public class Building {
-    private Room[] rooms;
+    private ArrayList<Room> rooms;
     private String title;
     private int roomCount;
 
