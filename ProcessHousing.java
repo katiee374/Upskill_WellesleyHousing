@@ -7,27 +7,43 @@ import java.util.Scanner;
 public class ProcessHousing {
     private String allText;
     private final String HOUSEFILE = "housing.txt";
-    private String[] housingCodes;
+    private final String[] housingCodes = { "BAT", "DAV", "DOW", "FRE", "HEM", "MCA", "ORC", "STO", "BEB", "CAZ", "MUN",
+            "POM", "SHA", "CLA", "LAK", "SEV", "TCE", "TCW" };
+
     public ProcessHousing() {
         allText = "";
         // writes all the text from housing txt to one string
         try {
             Scanner myReader = new Scanner(new File(HOUSEFILE));
             while (myReader.hasNext()) {
-                String temp = myReader.nextLine();
-                    allText += temp;
-                    allText += "\n";
+                boolean changed = false;
+                String temp = myReader.next();
+                for(int i = 0; i < housingCodes.length; i++){
+                    if(temp.contains(housingCodes[i])&& temp.indexOf(housingCodes[i])!=0){
+                        int num = temp.indexOf(housingCodes[i]);
+                        allText += temp.substring(0, num) + " " + temp.substring(num, temp.length());
+                        changed = true;
+                    }
+                }            
+                if(!changed){
+                    allText += (temp + " ");
+                }
+               
+                changed = false;
+                
             }
         } catch (FileNotFoundException e) {
             System.out.println(e);
         }
 
     }
-    public String returnAllText(){
+
+    public String returnAllText() {
         return allText;
     }
-    public String[] processRoom( String code) {
-        return "";
+
+    public String processRoom(String code) {
+      return ""; 
     }
 
     /**
@@ -43,8 +59,14 @@ public class ProcessHousing {
             System.out.println("***ERROR***" + fileName + " could not be written");
         }
     }
+
+    public String returnCode(int i){
+        return housingCodes[i];
+    }
+
     public static void main(String[] args) {
         ProcessHousing tester = new ProcessHousing();
         System.out.println(tester.returnAllText());
+
     }
 }
