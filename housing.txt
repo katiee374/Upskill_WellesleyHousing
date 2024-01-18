@@ -1,93 +1,5 @@
-Start of file /n 
- 
- 
-Eastside 
-Neighborhood page 0 /n 
-	 		
-	 	 	
-	 			 	 	
-	 			 	 	
-	 		
-	 	 	
-	 			 	 	
-	 	 	
-	 	 	
-	 		
-	 		
-     
-	 	 	
-	 		
-	 	 	
-	 			 	 	
-	 		
-	 	 	
-	 		
-    
-	 	 	
-	 			 	 	
-	 			 	 	
-	 		
-	 	 	
-	 			 	 	
-	 	 		 	 	
-	 			 		
-     
-	 	 	
-	 		
-	 	 	
-	 			 	 	
-	 		
-	 	 	
-	 			 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 			 	 	
-	 			 	 	
-	 	 	
-	 	 	
-	 			 		
-     
-	 	 	
-     
-	 			 	 	
-	 			 	 	
-	 		
-	 	 	
-     
-	 			 	 		 		
-     
-	 	 	
-	 		
-	 	 	
-	 			 	 	
-	 			 	 	
-	 	 	
-	 	 	
-	 		
-	 		
-     
-	 	 	
-     
-	 		
-	 	 	
-	 		
-	 	 	
-	 			 	 	
-     
-	 			 		
-	 			 		
-	 		
- 
- 
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	BAT 212 First-Year Double BAT 403 Single 
-Pre-Halled Student Leader Room BATES BAT 213 Single BAT 404 Upperclass DoubleBAT 215 Single BAT 101 Single 
+BAT 212 First-Year Double BAT 403 Single 
+Pre-Halled Student Leader Room BAT 213 Single BAT 404 Upperclass DoubleBAT 215 Single BAT 101 Single 
 Pre-Halled Student Leader Room BAT 405 SingleBAT 102 First-Year Double BAT 216 First-Year Double BAT 406 Upperclass DoubleBAT 103 Single BAT 217 Single BAT 407 SingleBAT 104 First-Year Double BAT 218 First-Year Double BAT 408 Upperclass DoubleBAT 105 Single BAT 219 Single BAT 409 SingleBAT 106 First-Year Double BAT 220 First-Year Double BAT 410 Upperclass DoubleBAT 107 Single BAT 221 Single BAT 411 Res Staff BAT 108 First-Year Double BAT 222 First-Year Double BAT 412 Upperclass DoubleBAT 109 Single BAT 301 Single BAT 413 SingleBAT 110 First-Year Double BAT 302 Upperclass Double BAT 415 SingleBAT 111 Res Staff Pre-Halled Student Leader Room BAT 303 SingleBAT 112 First-Year Double BAT 416 Upperclass DoubleBAT 304 Upperclass Double Pre-Halled Student Leader Room BAT 113 Single BAT 305 Single BAT 417 SingleBAT 115 Single BAT 306 Upperclass DoublePre-Halled Student Leader Room BAT 418 Upperclass Double
 BAT 307 Single BAT 116 First-Year Double BAT 419 Single
 BAT 308 Upperclass Double BAT 117 Single BAT 420 Upperclass Double
@@ -104,120 +16,13 @@ BAT 207 Single BAT 321 Single DAV 058 First-Year Triple
 BAT 208 First-Year Double BAT 322 Upperclass Double DAV 059 First-Year Triple 
 BAT 209 Single Pre-Halled Student Leader Room DAV 060 First-Year Triple 
 BAT 210 First-Year Double BAT 401 Single DAV 061 First-Year Triple 
-BAT 211 Res Staff BAT 402 Upperclass Double DAV 062 First-Year Triple page 1 /n	 		
-	 	 	
-	 	 	
-	  
-	 		
-	 	 	
-     
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 		
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-     
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 	 	
-	 		
-	 		
-	 		
-	 	 	
-     
-	 		
-	 		
-	 	 	
-	 	 	
-	 	 	
-	 	 		 		
-     
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 	 	
-	 	 	
-	 	 	
-	 		
-	 	 	
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 	 	
-	 	 	
-	 		
-	 	 	
-	 	 	
-	 		
-	 	 	
-	 	 	
-	 		
-    
-	 		
-	 		
-	 		
-	 	 		 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 		
- 
- 
-	 	 	
-    
-	 	 	
-    
-	 	 	
-    
-	 	 	
-    
-	 	 	
-    
-	 	 	
-    
-	 	 	
-    
-	 	 	
-    
-	 	 	
-    
-	 	 	
-    
-	 	 	
-    
-	 	 	
-    
-	 	 	
-    
-	 	 	
-    
-	 	 	
-    DAV 135	 Single DAV 263 Single DAV 422 Upperclass Double 
+BAT 211 Res Staff BAT 402 Upperclass Double DAV 062 First-Year Triple 		
+
+DAV 135	 Single DAV 263 Single DAV 422 Upperclass Double 
 Pre-Halled Student Leader Room DAV 137	 Upperclass Double DAV 424 Upperclass DoubleDAV 264	 SingleDAV 138	 First-Year Double DAV 425 Upperclass DoubleDAV 265	 SingleDAV 139	 Triple DAV 426 Upperclass DoubleDAV 266	 SingleDAV 142	 Single DAV 427 Res Staff DAV 267	 SingleDAV 143	 Upperclass Double DAV 428 Upperclass Double 
 Pre-Halled Student Leader Room DAV 269 Single DAV 430	 SingleDAV 145 First-Year Double DAV 270 Single 
 DAV 146 Res Staff DAV 271 First-Year Triple 
-DAV 147 First-Year Double DAV 272 First-Year Triple DOWER 
+DAV 147 First-Year Double DAV 272 First-Year Triple  
 DAV 148 First-Year Double DAV 334 Upperclass Double DOW 101	 Upperclass DoubleDAV 150	 First-Year Double DAV 336 Single Pre-Halled Language House 
 DAV 151	 Single DAV 337 Upperclass Double DOW 103 Upperclass Double
 DAV 152 First-Year Double DAV 338 Single Pre-Halled Language House 
@@ -228,113 +33,9 @@ Pre-Halled Student Leader Room DAV 344	 Single Pre-Halled Language House
 DAV 244 Single DAV 345 Single DOW 109 First-Year Triple 
 DAV 245 Single Pre-Halled Language House DAV 346	 SingleDAV 246 Single DOW 110 First-Year Triple DAV 347 Single Pre-Halled Language House DAV 247	 Single DAV 348 Upperclass Double DOW 201 Upperclass DoubleDAV 249 Single Pre-Halled Language House DAV 349 Res Staff DAV 250 Single DOW 202 First-Year Triple DAV 350	 Single Pre-Halled Language House DAV 251	 Upperclass Double DAV 351 Upperclass Double DOW 203	 Upperclass DoubleDAV 252	 Single DAV 353 Upperclass Double Pre-Halled Language House DAV 253 Single DAV 354 Single DOW 204 Upperclass DoubleDAV 254 Single Pre-Halled Language House DAV 355	 Upperclass DoubleDAV 255	 Upperclass Double DOW 205 Upperclass DoubleDAV 356 Upperclass DoublePre-Halled Student Leader Room	 Pre-Halled Language House 
 DAV 359	 SingleDAV 256	 Single DOW 206 Upperclass DoubleHouse President Room Pre-Halled Language House DAV 257	 Single DAV 362	 Single DOW 207	 Upperclass DoubleDAV 259	 First-Year Double DAV 363 Single Pre-Halled Language House DAV 260 First-Year Double DAV 418 Single DOW 208 Upperclass Double
-DAV 261 First-Year Double Pre-Halled Language House DAV 420	 Upperclass DoubleDAV 262	 Res Staff page 2 /n 
-	 	 	
-    
-	 	 	
-    
-	 	 	
-    
-	 	 	
-    
-	 	 	
-    
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	  
-	 	 	
-	 	 	
-	 	 	
-	 		
-	 		
-     
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-    
-	 	 	
-	 		
-	 	 	
-	 			 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 	 	
-	 	 	
-	 		
-	 		
-     
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 	 	
-	 	 	
-	 		
-	 		
-     
-	 	 	
-	 		
-	 	 	
-	 			 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 	 	
-	 	 	
-     
-	 		
-	 		
-     
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 		
-	 		
-	 		
-	 		
- 
- 
-	 	 	
-	 	 	FRE 206 First-Year Double FRE 320 Upperclass Double 
+DAV 261 First-Year Double Pre-Halled Language House DAV 420	 Upperclass DoubleDAV 262	 Res Staff 
+
+FRE 206 First-Year Double FRE 320 Upperclass Double 
 DOW 209 First-Year Triple FRE 207 Single FRE 321 Single 
 DOW 210 
 DOW 211 Pre-Halled Language House 
@@ -475,116 +176,12 @@ Single FRE 316
 FRE 317 
 FRE 318 
 FRE 319 Upperclass Double Single 
-Upperclass Double Single HEMLOCK 
+Upperclass Double Single 
 HEM A 3-Person Apartment 
-HEM B 3-Person Apartment page 3 /n	 	 	
-	 	 	
- 
- 
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-    
-	 		
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-     
-	 	 	
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 		 		
-	 	 	
-     
-	 		
-	 	 	
-	 		
-     
-	 	 	
-     
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-    
-	 		
-	 		
-     
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 		 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 		
-	 		
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 		
-	 		
-	 	 	HEM C 4-Person Apartment MCA 212 Single MCA 320 Single 
-MCA 101 Two Room Double MCA 213 Upperclass Double MCA 321 First-Year Double 
-MCAFEE 
+HEM B 3-Person Apartment  	 	
+
+HEM C 4-Person Apartment MCA 212 Single MCA 320 Single 
+MCA 101 Two Room Double MCA 213 Upperclass Double MCA 321 First-Year Double  
 MCA 102 Two Room Double MCA 214 
 MCA 216 
 MCA 218 Pre-Halled Student Leader Room 
@@ -704,100 +301,11 @@ First-Year Double
 Single 
 Single 
 Single 
-Triple page 4 /n	 	 	
- 
- 
-	 	 	
-	 	 	
- 
- 
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 		
-	 	 	
-	 	 	
-	 		
-	  
-	 	 	
-	 	 	
-	 		
-     
-	 	 	
-	 	 	
-	 	 	
-	 		
-	 	 	
-	 		
-	 		
-	 			 		
-	 	 	
-	 		
-     
-	 	 	
-	 	 	
-	 	 	
-	 		
-	 		
-	 	 	
-     
-	 		
-	 		
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 		
-	 		
-	 		
-	 		
-	 	 	
-	 		
-	 		
-	 		
-    
- 	 	 	
-	 	 	
-	 		
-	 	 	
-	 	 	
-	 		
-	 	 	
-	 	 	
-	 		
-	 			 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 	 	
-	 		
-	 	 	
-	 		
-	 		
-	 	 	
-	 	 	
-	 		
-	 		
-	 	 	
-	 		
-	 		
-	 		
- MCA RD APT 4-Person Apartment STO 212 Single STO 319 Single 
+Triple  	
+MCA RDAPT 4-Person Apartment STO 212 Single STO 319 Single 
 STO 213 Res Staff STO 320 Single 
 STO 214 Single	 STO 321 Single 
-Pre-Halled Student Leader Room ORCHID Single STO 322 STO 215 First-Year Double STO 323 Single ORC 100 3-Person Apartment STO 218 First-Year Double STO 324 Single ORC 200 3-Person Apartment STO 219 First-Year Double STO 326 SingleSTO 220 Single STO 327 SingleSTO 221 SingleSTONE	 STO 328 SingleSTO 222 Upperclass Double STO 330 Upperclass DoubleSTO 002 First-Year Triple Pre-Halled Student Leader Room STO 402 SingleSTO 003 First-Year Triple	 STO 223 Single 
+Pre-Halled Student Leader Room STO 322 Single STO 215 First-Year Double STO 323 Single ORC 100 3-Person Apartment STO 218 First-Year Double STO 324 Single ORC 200 3-Person Apartment STO 219 First-Year Double STO 326 SingleSTO 220 Single STO 327 SingleSTO 221 Single	 STO 328 SingleSTO 222 Upperclass Double STO 330 Upperclass DoubleSTO 002 First-Year Triple Pre-Halled Student Leader Room STO 402 SingleSTO 003 First-Year Triple	 STO 223 Single 
 STO 404 Upperclass DoubleSTO 224 Single STO 004 First-Year Triple STO 405 SingleSTO 005 First-Year Triple	 STO 225 Single 
 STO 406 SingleSTO 226 Upperclass Double STO 008 First-Year Triple STO 407 Res Staff STO 009 Res Staff	 STO 227 Single 
 STO 408 Upperclass DoubleSTO 101 First-Year Triple	 STO 228 Res Staff 
@@ -816,113 +324,9 @@ STO 314 Single STO 207 First-Year Double
 STO 208 Single	 STO 315 Res Staff 
 STO 316 Upperclass Double STO 209 Single 
 STO 211 Single	 STO 317 Single 
-STO 318 Single page 5 /n 
+STO 318 Single 
  
- 
-Quint 
-Neighborhood page 6 /n 
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 		
-     
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 		
-     
-	 		
-	 	 	
-	 	 		 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-     
-	 	 	
-	 		
-	 		
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 	 	
-	 		
-	 	 	
-	 	 	
-	 		
-     
-	 	 	
-	 	 		 		
-	 	 	
-	 		
-    
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 	 	
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-	 	 	
- 
- BEB 217 First-Year Double BEB 323 SingleBEEBE BEB 218 First-Year Double BEB 325 Upperclass Double 
+ BEB 217 First-Year Double BEB 323 Single BEB 218 First-Year Double BEB 325 Upperclass Double 
 BEB 001 
 BEB 002 
 BEB 003 
@@ -1059,12 +463,12 @@ BEB 211 First-Year Double BEB 317 First-Year Double BEB 504 Single
 BEB 212 Single 
 Pre-Halled Student Leader Room BEB 319 
 BEB 320 First-Year Double 
-Single BEB RD APT 4-Person Apartment 
+Single BEB RDAPT 4-Person Apartment 
 BEB 213 
 BEB 214 Single 
 First-Year Double BEB 321 Pre-Halled Student Leader Room 
 Upperclass Double 
-BEB 215 First-Year Double BEB 322 Upperclass Double page 7 /n 
+BEB 215 First-Year Double BEB 322 Upperclass Double 
 	 		
 	  
 	 			 		
@@ -1298,7 +702,7 @@ First-Year Double
 Single 
 Upperclass Double 
 Single Single 
-Single page 8 /n	 	  
+Single 	  
 	 	 	
 	 		
 	 		
@@ -1409,7 +813,7 @@ CAZ 502 Single MUN 145 Upperclass Double MUN 234 Single
 CAZ 503 Single MUN 146 Upperclass Double MUN 235 Single 
 CAZ 504 Single MUN 147 Single MUN 236 Single 
 MUN 201 Single MUN 237 Res Staff 
-MUN 202 First-Year Double MUN 239 SingleMUNGER MUN 203 Upperclass Double MUN 241 Single 
+MUN 202 First-Year Double MUN 239 Single MUN 203 Upperclass Double MUN 241 Single 
 MUN 205 Single MUN 243 Single MUN 034 Single 
 MUN 207 Single MUN 245 First-Year Double MUN 036 Single 
 MUN 209 Single MUN 246 First-Year Double MUN 037 Single 
@@ -1422,7 +826,7 @@ MUN 215 Single MUN 307 Single MUN 047 Triple
 MUN 216 First-Year Double MUN 309 Single MUN 101 Single 
 MUN 217 Single MUN 310 Single MUN 102 First-Year Double 
 MUN 218 Single MUN 311 Res Staff MUN 103 First-Year Double 
-Pre-Halled Student Leader Room MUN 312 Single MUN 105 Single MUN 219 Single MUN 313 Single MUN 107 First-Year Double MUN 221 First-Year Double MUN 314 Single MUN 109 Res Staff MUN 223 Upperclass Double MUN 315 Single MUN 111 Single MUN 224 Single MUN 316 Single MUN 113 Single MUN 224A Single MUN 317 Single MUN 114 Single MUN 225 Upperclass Double MUN 318 Single MUN 115 Single MUN 226 Single Pre-Halled Student Leader Room MUN 116 First-Year Double MUN 226A Single MUN 319 SingleMUN 117 Single MUN 227 Upperclass Double MUN 321 First-Year Double MUN 118 Single MUN 228 Single MUN 323 First-Year Double MUN 133 Single MUN 228A Single MUN 324 SingleMUN 135 Single MUN 229 First-Year Double MUN 325 First-Year Double MUN 136 Upperclass Double MUN 230 Suite for 4 with Bathroom MUN 326 Single page 9 /n	 		
+Pre-Halled Student Leader Room MUN 312 Single MUN 105 Single MUN 219 Single MUN 313 Single MUN 107 First-Year Double MUN 221 First-Year Double MUN 314 Single MUN 109 Res Staff MUN 223 Upperclass Double MUN 315 Single MUN 111 Single MUN 224 Single MUN 316 Single MUN 113 Single MUN 224A Single MUN 317 Single MUN 114 Single MUN 225 Upperclass Double MUN 318 Single MUN 115 Single MUN 226 Single Pre-Halled Student Leader Room MUN 116 First-Year Double MUN 226A Single MUN 319 SingleMUN 117 Single MUN 227 Upperclass Double MUN 321 First-Year Double MUN 118 Single MUN 228 Single MUN 323 First-Year Double MUN 133 Single MUN 228A Single MUN 324 SingleMUN 135 Single MUN 229 First-Year Double MUN 325 First-Year Double MUN 136 Upperclass Double MUN 230 Suite for 4 with Bathroom MUN 326 Single   		
 	 	 	
 	 		
 	 		
@@ -1581,7 +985,7 @@ MUN 345 Upperclass Double
 MUN 346 Single 
 MUN 347 Single 
 House President Room 
-POMEROY 
+ 
 POM 101 First-Year Double 
 POM 102 First-Year Double 
 POM 103 Res Staff 
@@ -1666,7 +1070,7 @@ Pre-Halled Student Leader Room POM 326
 POM 327 Pre-Halled Language Learning Community 
 Single 
 Pre-Halled Language Learning Community 
-Single page 10 /n      
+Single  
 	 		
       
 	 		
@@ -1777,7 +1181,7 @@ Single page 10 /n
       
 	 		
       
-	 		Pre-Halled Language Learning Community POM 505 Single SHA 205 SinglePOM 328 Single SHA 206 Upperclass DoublePre-Halled Language Learning Community Pre-Halled Student Leader Room POM 329 Single SHAFER SHA 207 Upperclass DoublePre-Halled Language Learning Community SHA 208 Upperclass DoublePOM 401 Upperclass Double SHA 001 Single SHA 209 SinglePOM 402 Single SHA 001G Single Pre-Halled Language Learning Community POM 404 Single SHA 002 Single SHA 210 Upperclass DoublePOM 405 Single SHA 002G Upperclass Double SHA 211 Upperclass DoublePOM 406 Single Pre-Halled Student Leader Room SHA 003 Single
+	 		Pre-Halled Language Learning Community POM 505 Single SHA 205 SinglePOM 328 Single SHA 206 Upperclass DoublePre-Halled Language Learning Community Pre-Halled Student Leader Room POM 329 Single SHA 207 Upperclass DoublePre-Halled Language Learning Community SHA 208 Upperclass DoublePOM 401 Upperclass Double SHA 001 Single SHA 209 SinglePOM 402 Single SHA 001G Single Pre-Halled Language Learning Community POM 404 Single SHA 002 Single SHA 210 Upperclass DoublePOM 405 Single SHA 002G Upperclass Double SHA 211 Upperclass DoublePOM 406 Single Pre-Halled Student Leader Room SHA 003 Single
 POM 407 Upperclass Double SHA 212 SingleSHA 003G Single Pre-Halled Language Learning Community POM 408 Single SHA 004 Single SHA 213 SinglePOM 409 Res Staff SHA 004G Upperclass Double Pre-Halled Language Learning Community POM 410 Single SHA 005 Single SHA 214 Single
 POM 411 Single Pre-Halled Language Learning Community SHA 005G Upperclass Double
 POM 412 Single SHA 215 First-Year Double SHA 006 Single
@@ -1792,7 +1196,7 @@ POM 423 Single SHA 109 First-Year Double SHA 225 Single
 POM 424 Single SHA 110 First-Year Double Pre-Halled Language Learning Community 
 POM 425 Single SHA 111 First-Year Double SHA 226 Single 
 Pre-Halled Language Learning Community POM 426 Single SHA 112 First-Year Double SHA 227 SingleHouse President Room SHA 113 First-Year Double Pre-Halled Language Learning Community POM 427 Single SHA 115 First-Year Double SHA 228 SinglePOM 428 Single Pre-Halled Language Learning Community SHA 200 Triple 
-POM 501 Single SHA 229 SingleSHA 201 Triple Pre-Halled Language Learning Community POM 502 Single SHA 202 Single SHA 230 SinglePOM 503 Single Pre-Halled Language Learning Community Pre-Halled Language Learning Community POM 504 Single SHA 204 Res Staff SHA 231 Single page 11 /n      
+POM 501 Single SHA 229 SingleSHA 201 Triple Pre-Halled Language Learning Community POM 502 Single SHA 202 Single SHA 230 SinglePOM 503 Single Pre-Halled Language Learning Community Pre-Halled Language Learning Community POM 504 Single SHA 204 Res Staff SHA 231 Single
 	 		
       
 	 		
@@ -1838,7 +1242,7 @@ Pre-Halled Student Leader Room
 Single 
 Single 
 Single 
-Upperclass Double page 12 /n	 		
+Upperclass Double  	
 	 	 	
 	 		
 	 	 	
@@ -1885,13 +1289,12 @@ SHA 320 First-Year Double SHA 408 Single SHA 423 Single
 SHA 321 First-Year Double SHA 409 Single SHA 425 Single 
 SHA 322 Single SHA 410 Single SHA 500 Single 
 Pre-Halled Student Leader Room SHA 411 Single SHA 501 SingleSHA 323 First-Year Double SHA 412 Single SHA 502 SingleSHA 325 Upperclass Double SHA 413 Single SHA 503 SinglePre-Halled Student Leader Room SHA 414 Single SHA 504 SingleSHA 400 Single 
-House President Room SHA 415 Single SHA RD APT 4-Person Apartment 
+House President Room SHA 415 Single SHA RDAPT 4-Person Apartment 
 SHA 401 Single SHA 416 Single 
-SHA 402 Single SHA 417 Single page 13 /n 
+SHA 402 Single SHA 417 Single 
  
  
-Tower 
-Neighborhood page 14 /n 
+
 	 	 	
 	 	 	
 	 		
@@ -1980,10 +1383,10 @@ Neighborhood page 14 /n
 	 	 	
 	 	 	
 	 	 	CLA 202 Single CLA 308 Single 
-Pre-Halled Student Leader Room Pre-Halled Student Leader Room CLAFLIN CLA 203 2 Room Double CLA 309 First-Year Double CLA 001 Suite for 2 with Bathroom CLA 204 2 Room Double CLA 310 SingleCLA 002 Suite for 2 with Bathroom CLA 205 2 Room Double CLA 311 SingleCLA 003 Single CLA 206 2 Room Double CLA 312 SingleCLA G-Suite Suite for 5 with Bathroom CLA 207 Triple CLA 313 SingleCLA 004 Single Pre-Halled Student Leader Room CLA 208 SingleCLA 005 Single CLA 314 SingleCLA 209 SingleCLA 022 2 Room Triple CLA 315 SingleCLA 210 SingleCLA 024 Single CLA 316 SingleCLA 211 SingleCLA 025 Single CLA 317 Res Staff CLA 212 SingleCLA 101 Res Staff CLA 318 SingleCLA 213 SingleCLA 102 Single CLA 319 SingleCLA 214 SingleCLA 103 2 Room Double CLA 320 SingleCLA 215 Single Pre-Halled Student Leader Room CLA 104 2 Room Double CLA 216 Single CLA 321 SingleCLA 105 2 Room Double CLA 217 Singl e CLA 323 SingleCLA 106 2 Room Double CLA 218 Single CLA 324 2 Room Triple CLA 107 Triple CLA 219 Res Staff CLA 325 SingleCLA 108 Single CLA 220 Single Pre-Halled Student Leader Room CLA 109 Single CLA 221 Single CLA 327 Single
+Pre-Halled Student Leader Room Pre-Halled Student Leader Room  CLA 203 2 Room Double CLA 309 First-Year Double CLA 001 Suite for 2 with Bathroom CLA 204 2 Room Double CLA 310 SingleCLA 002 Suite for 2 with Bathroom CLA 205 2 Room Double CLA 311 SingleCLA 003 Single CLA 206 2 Room Double CLA 312 SingleCLA G-Suite Suite for 5 with Bathroom CLA 207 Triple CLA 313 SingleCLA 004 Single Pre-Halled Student Leader Room CLA 208 SingleCLA 005 Single CLA 314 SingleCLA 209 SingleCLA 022 2 Room Triple CLA 315 SingleCLA 210 SingleCLA 024 Single CLA 316 SingleCLA 211 SingleCLA 025 Single CLA 317 Res Staff CLA 212 SingleCLA 101 Res Staff CLA 318 SingleCLA 213 SingleCLA 102 Single CLA 319 SingleCLA 214 SingleCLA 103 2 Room Double CLA 320 SingleCLA 215 Single Pre-Halled Student Leader Room CLA 104 2 Room Double CLA 216 Single CLA 321 SingleCLA 105 2 Room Double CLA 217 Single CLA 323 SingleCLA 106 2 Room Double CLA 218 Single CLA 324 2 Room Triple CLA 107 Triple CLA 219 Res Staff CLA 325 SingleCLA 108 Single CLA 220 Single Pre-Halled Student Leader Room CLA 109 Single CLA 221 Single CLA 327 Single
 CLA 110 Single Pre-Halled Student Leader Room CLA 222 Suite for 4 with BathroomCLA 111 Single CLA 329 SingleCLA 223 SingleCLA 112 Single CLA 401 2 Room Double CLA 224 SingleCLA 113 Single CLA 402 2 Room Double CLA 225 SingleCLA 114 Single CLA 405 2 Room Double CLA 226 SingleCLA 115 Single CLA 406 2 Room Double CLA 227 SingleCLA 116 Single CLA 407 SingleCLA 228 Single Pre-Halled Student Leader Room CLA 117 Single House President Room CLA 408 First-Year Double CLA 118 Single CLA 229 Single CLA 409 SingleCLA 119 Single CLA 231 2 Room Triple CLA 410 First-Year Double CLA 120 Single CLA 301 Single CLA 411 SingleCLA 121 Single CLA 302 Single Pre-Halled Student Leader Room 
 CLA 122 Upperclass Double CLA 303 First-Year Double CLA 412 First-Year Double 
-Pre-Halled Student Leader Room CLA 306 First-Year Double CLA 414 First-Year Double CLA 201 Single CLA 307 First-Year Triple CLA 416 First-Year Double page 15 /n	 	 	
+Pre-Halled Student Leader Room CLA 306 First-Year Double CLA 414 First-Year Double CLA 201 Single CLA 307 First-Year Triple CLA 416 First-Year Double 	 	 	
 	  
 	 	 	
 	 		
@@ -2086,7 +1489,7 @@ Pre-Halled Student Leader Room CLA 306 First-Year Double CLA 414 First-Year Doub
 	 		
 	 		
      CLA 418 First-Year Double LAK 203 Single 
-CLA 420 First-Year Double LAK 204 Single SEVERANCE 
+CLA 420 First-Year Double LAK 204 Single  
 CLA 424 Res Staff LAK 205 Single SEV 001 Single
 CLA 427 Single LAK 206 Single SEV 003 Single
 CLA 501 Single LAK 207 Single SEV 005 Single
@@ -2094,7 +1497,7 @@ CLA 502 Single LAK 208 Single SEV 006 Single
 CLA 503 Single LAK 209 Single SEV 007 Single
 LAK 210 Single SEV 008 Triple 
 LAK 211 Single SEV 009 Upperclass Double
-LAK 213 LAKE HOUSE Single SEV 010 Upperclass Double
+LAK 213 Single SEV 010 Upperclass Double
 LAK 215 Single LAK 101 Single SEV 012 Single
 LAK 217 Single LAK 102 Single SEV 014 Single
 LAK 219 Single LAK 103 Single SEV 016 Single
@@ -2108,7 +1511,7 @@ LAK 227 Single LAK 111 Single SEV 036 Upperclass Double
 LAK 228 Single LAK 113 Single SEV 038 Upperclass Double
 LAK 229 Single LAK 115 Single SEV 040 Upperclass Double
 Pre-Halled Student Leader Room LAK 117 Single SEV 041 Upperclass DoubleLAK 230 SingleLAK 119 Single SEV 042 Upperclass DoubleLAK 301 First-Year Double LAK 121 Single SEV 101 Upperclass DoubleLAK 302 First-Year Double LAK 123 Single SEV 103 SingleLAK 303 First-Year Double LAK 124 Single SEV 104 Upperclass DoubleLAK 304 First-Year Double LAK 125 Single SEV 112 First-Year Triple LAK 305 First-Year Double LAK 126 Single SEV 114 First-Year Triple LAK 307 First-Year Double LAK 127 Single SEV 115 SingleLAK 308 First-Year Double LAK 128 Single SEV 116 First-Year Double LAK 309 First-Year Double LAK 129 Single SEV 117 SingleLAK 310 First-Year Double LAK 130 Single SEV 118 First-Year Double LAK 311 First-Year Double LAK 201 Single SEV 119 Single 
-House President Room SEV 120 SingleLAK 202 Single Pre-Halled Student Leader Room page 16 /n	 		
+House President Room SEV 120 SingleLAK 202 Single Pre-Halled Student Leader Room 	
      
 	 		
 	  
@@ -2218,7 +1621,7 @@ House President Room SEV 120 SingleLAK 202 Single Pre-Halled Student Leader Room
 	 		SEV 121	 Single SEV 213 Upperclass Double SEV 324 First-Year Double 
 Pre-Halled Student Leader Room SEV 214	 First-Year Triple SEV 327 Upperclass DoubleSEV 122	 Single SEV 215 Single SEV 329 SingleSEV 123 Single Pre-Halled Student Leader Room SEV 216	 First-Year Double SEV 125	 Single SEV 331 SingleSEV 217	 Single House President Room SEV 126	 Single Pre-Halled Student Leader Room SEV 332	 Suite for 2 with BathroomSEV 127 First-Year Triple SEV 218 Upperclass Double 
 SEV 128 Single SEV 219 Single 
-SEV 129 Single SEV 220 Single TOWER COURT SEV 130 Single SEV 221 Single 
+SEV 129 Single SEV 220 Single  SEV 130 Single SEV 221 Single 
 SEV 131 Single SEV 222 Single TCE 101 Single 
 Pre-Halled Student Leader SEV 132	 Suite for 2 with Bathroom SEV 223 Single TCE 102	 Upperclass DoubleSEV 133	 Single SEV 224 Res Staff TCE 103	 Upperclass DoublePre-Halled Student Leader Room SEV 225	 SingleSEV 134	 Single TCE 104 Upperclass DoubleSEV 226	 SingleSEV 135	 Upperclass Double TCE 106 SingleSEV 227 Upperclass DoublePre-Halled Language Learning Community TCE 107 SingleSEV 228 SingleSEV 136	 Single TCE 108	 SinglePre-Halled Student Leader Room Pre-Halled Language Learning Community 
 SEV 229	 Single TCE 109 SingleSEV 137	 Single 
@@ -2237,7 +1640,7 @@ SEV 208 Res Staff SEV 313 First-Year Triple TCE 206 Single
 SEV 209 Upperclass Double SEV 314 Triple TCE 207 Single 
 SEV 210 Upperclass Double SEV 316 Res Staff TCE 208 Single 
 TCE 209	 Res Staff SEV 211 Upperclass Double SEV 318 Single 
-SEV 212 First-Year Triple SEV 320 First-Year Triple TCE 210 Single page 17 /n	 		
+SEV 212 First-Year Triple SEV 320 First-Year Triple TCE 210 Single 	 		
 	 		
 	 		
 	 		
@@ -2349,7 +1752,7 @@ TCE 215 Single TCE 521 Upperclass DoubleTCE 328 Single
 TCE 216 Single TCE 522 SingleTCE 401 Single
 TCE 217 First-Year Double TCE 523 SingleTCE 402 Single
 TCE 218 First-Year Double TCE 524 SingleTCE 403 Single
-TCE 219 Single TCE 525 Triple TCE 404 Single Pre-Halled Student Leader Room TCE 221 Suite for 2 with Bathroom TCE 405 Single TCE 526 SingleTCE 223 Suite for 2 with Bathroom TCE 406 Single TCE 528 SingleTCE 301 Single TCE 407 Single TCE RD APT 4-Person Apartment TCE 302 First-Year Double TCE 408 Single TCW 118 SingleTCE 303 First-Year Double TCE 409 Single House President Room TCE 304 First-Year Double TCE 410 Single TCW 140 Single
+TCE 219 Single TCE 525 Triple TCE 404 Single Pre-Halled Student Leader Room TCE 221 Suite for 2 with Bathroom TCE 405 Single TCE 526 SingleTCE 223 Suite for 2 with Bathroom TCE 406 Single TCE 528 SingleTCE 301 Single TCE 407 Single TCE RDAPT 4-Person Apartment TCE 302 First-Year Double TCE 408 Single TCW 118 SingleTCE 303 First-Year Double TCE 409 Single House President Room TCE 304 First-Year Double TCE 410 Single TCW 140 Single
 TCE 305 Single TCE 411 Single TCW 141 Single
 TCE 306 Single TCE 412 Single TCW 142 First-Year Double 
 TCE 307 Single TCE 413 Single TCW 143 Single
@@ -2363,7 +1766,7 @@ TCE 314 Single TCE 420 Triple TCW 150 Single
 TCE 315 Single TCE 421 Suite for 2 with Bathroom TCW 152 First-Year Double Pre-Halled Student Leader Room TCE 422 Upperclass Double TCW 153 First-Year Double TCE 316 Single 
 Pre-Halled Student Leader Room TCE 423 Suite for 2 with Bathroom TCW 154 First-Year Double 
 TCE 317 Res Staff TCE 424 Upperclass Double TCW 155 Single 
-Pre-Halled Student Leader TCE 318 First-Year Double TCE 425 Single TCW 234 First-Year Triple TCE 319 Single TCE 426 Single TCW 236 Quad with Bathroom TCE 320 First-Year Triple TCE 427 Single TCW 237 SingleTCE 321 Suite for 2 with Bathroom TCE 428 Single TCW 238 First-Year Double TCE 322 First-Year Double TCE 507 Upperclass Double TCW 239 First-Year Double TCE 323 Suite for 2 with Bathroom TCE 508 Triple TCW 240 Single page 18 /n	 	 	
+Pre-Halled Student Leader TCE 318 First-Year Double TCE 425 Single TCW 234 First-Year Triple TCE 319 Single TCE 426 Single TCW 236 Quad with Bathroom TCE 320 First-Year Triple TCE 427 Single TCW 237 SingleTCE 321 Suite for 2 with Bathroom TCE 428 Single TCW 238 First-Year Double TCE 322 First-Year Double TCE 507 Upperclass Double TCW 239 First-Year Double TCE 323 Suite for 2 with Bathroom TCE 508 Triple TCW 240 Single 
 	 		
 	 		
 	 		
@@ -2608,4 +2011,4 @@ Triple
 Single 
 Single 
 Single 
-Triple Single page 19 /n
+Triple Single  

@@ -1,0 +1,1473 @@
+Bates,BAT 212,First-Year Double 
+Bates,BAT 403,Single 
+Bates,BAT 213,Single 
+Bates,BAT 404,Upperclass Double 
+Bates,BAT 215,Single 
+Bates,BAT 101,Single 
+Bates,BAT 405,Single 
+Bates,BAT 102,First-Year Double 
+Bates,BAT 216,First-Year Double 
+Bates,BAT 406,Upperclass Double 
+Bates,BAT 103,Single 
+Bates,BAT 217,Single 
+Bates,BAT 407,Single 
+Bates,BAT 104,First-Year Double 
+Bates,BAT 218,First-Year Double 
+Bates,BAT 408,Upperclass Double 
+Bates,BAT 105,Single 
+Bates,BAT 219,Single 
+Bates,BAT 409,Single 
+Bates,BAT 106,First-Year Double 
+Bates,BAT 220,First-Year Double 
+Bates,BAT 410,Upperclass Double 
+Bates,BAT 107,Single 
+Bates,BAT 221,Single 
+Bates,BAT 411,Res Staff 
+Bates,BAT 108,First-Year Double 
+Bates,BAT 222,First-Year Double 
+Bates,BAT 412,Upperclass Double 
+Bates,BAT 109,Single 
+Bates,BAT 301,Single 
+Bates,BAT 413,Single 
+Bates,BAT 110,First-Year Double 
+Bates,BAT 302,Upperclass Double 
+Bates,BAT 415,Single 
+Bates,BAT 111,Res Staff 
+Bates,BAT 303,Single 
+Bates,BAT 112,First-Year Double 
+Bates,BAT 416,Upperclass Double 
+Bates,BAT 304,Upperclass Double 
+Bates,BAT 113,Single 
+Bates,BAT 305,Single 
+Bates,BAT 417,Single 
+Bates,BAT 115,Single 
+Bates,BAT 306,Upperclass Double 
+Bates,BAT 418,Upperclass Double 
+Bates,BAT 307,Single 
+Bates,BAT 116,First-Year Double 
+Bates,BAT 419,Single 
+Bates,BAT 308,Upperclass Double 
+Bates,BAT 117,Single 
+Bates,BAT 420,Upperclass Double 
+Bates,BAT 309,Single 
+Bates,BAT 118,First-Year Double 
+Bates,BAT 421,Single 
+Bates,BAT 310,Upperclass Double 
+Bates,BAT 119,Single 
+Bates,BAT 422,Upperclass Double 
+Bates,BAT 311,Res Staff 
+Bates,BAT 120,First-Year Double 
+Bates,BAT 312,Upperclass Double 
+Bates,BAT 501,Single 
+Bates,BAT 121,Single 
+Bates,BAT 313,Single 
+Bates,BAT 502,Single 
+Bates,BAT 122,First-Year Double 
+Bates,BAT 315,Single 
+Bates,BAT 503,Single 
+Bates,BAT 201,Single 
+Bates,BAT 504,Single 
+Bates,BAT 316,Upperclass Double 
+Bates,BAT 202,First-Year Double 
+Bates,BAT 505,Single 
+Bates,BAT 203,Single 
+Bates,BAT 317,Single 
+Bates,BAT 204,First-Year Double 
+Bates,BAT 318,Upperclass Double 
+Bates,BAT 205,Single 
+DAVIS Bates,BAT 319,Single 
+Bates,BAT 206,First-Year Double 
+Bates,BAT 320,Upperclass Double 
+Stone Davis,DAV 057,Res Staff 
+Bates,BAT 207,Single 
+Bates,BAT 321,Single 
+Stone Davis,DAV 058,First-Year Triple 
+Bates,BAT 208,First-Year Double 
+Bates,BAT 322,Upperclass Double 
+Stone Davis,DAV 059,First-Year Triple 
+Bates,BAT 209,Single 
+Stone Davis,DAV 060,First-Year Triple 
+Bates,BAT 210,First-Year Double 
+Bates,BAT 401,Single 
+Stone Davis,DAV 061,First-Year Triple 
+Bates,BAT 211,Res Staff 
+Bates,BAT 402,Upperclass Double 
+Stone Davis,DAV 062,First-Year Triple 
+Stone Davis,DAV 135,Single 
+Stone Davis,DAV 263,Single 
+Stone Davis,DAV 422,Upperclass Double 
+Stone Davis,DAV 137,Upperclass Double 
+Stone Davis,DAV 424,Upperclass Double 
+Stone Davis,DAV 264,Single 
+Stone Davis,DAV 138,First-Year Double 
+Stone Davis,DAV 425,Upperclass Double 
+Stone Davis,DAV 265,Single 
+Stone Davis,DAV 139,Triple 
+Stone Davis,DAV 426,Upperclass Double 
+Stone Davis,DAV 266,Single 
+Stone Davis,DAV 142,Single 
+Stone Davis,DAV 427,Res Staff 
+Stone Davis,DAV 267,Single 
+Stone Davis,DAV 143,Upperclass Double 
+Stone Davis,DAV 428,Upperclass Double 
+Stone Davis,DAV 269,Single 
+Stone Davis,DAV 430,Single 
+Stone Davis,DAV 145,First-Year Double 
+Stone Davis,DAV 270,Single 
+Stone Davis,DAV 146,Res Staff 
+Stone Davis,DAV 271,First-Year Triple 
+Stone Davis,DAV 147,First-Year Double 
+Stone Davis,DAV 272,First-Year Triple 
+Stone Davis,DAV 148,First-Year Double 
+Stone Davis,DAV 334,Upperclass Double 
+Dower,DOW 101,Upperclass Double 
+Stone Davis,DAV 150,First-Year Double 
+Stone Davis,DAV 336,Single 
+Stone Davis,DAV 151,Single 
+Stone Davis,DAV 337,Upperclass Double 
+Dower,DOW 103,Upperclass Double 
+Stone Davis,DAV 152,First-Year Double 
+Stone Davis,DAV 338,Single 
+Stone Davis,DAV 153,First-Year Triple 
+Stone Davis,DAV 339,Single 
+Dower,DOW 104,Res Staff 
+Stone Davis,DAV 154,First-Year Triple 
+Stone Davis,DAV 340,Single 
+Dower,DOW 105,Upperclass Double 
+Stone Davis,DAV 242,Upperclass Double 
+Stone Davis,DAV 342,Single 
+Stone Davis,DAV 243,Upperclass Double 
+Stone Davis,DAV 343,Single 
+Dower,DOW 107,Upperclass Double 
+Stone Davis,DAV 344,Single 
+Stone Davis,DAV 244,Single 
+Stone Davis,DAV 345,Single 
+Dower,DOW 109,First-Year Triple 
+Stone Davis,DAV 245,Single 
+Stone Davis,DAV 346,Single 
+Stone Davis,DAV 246,Single 
+Dower,DOW 110,First-Year Triple 
+Stone Davis,DAV 347,Single 
+Stone Davis,DAV 247,Single 
+Stone Davis,DAV 348,Upperclass Double 
+Dower,DOW 201,Upperclass Double 
+Stone Davis,DAV 249,Single 
+Stone Davis,DAV 349,Res Staff 
+Stone Davis,DAV 250,Single 
+Dower,DOW 202,First-Year Triple 
+Stone Davis,DAV 350,Single 
+Stone Davis,DAV 251,Upperclass Double 
+Stone Davis,DAV 351,Upperclass Double 
+Dower,DOW 203,Upperclass Double 
+Stone Davis,DAV 252,Single 
+Stone Davis,DAV 353,Upperclass Double 
+Stone Davis,DAV 253,Single 
+Stone Davis,DAV 354,Single 
+Dower,DOW 204,Upperclass Double 
+Stone Davis,DAV 254,Single 
+Stone Davis,DAV 355,Upperclass Double 
+Stone Davis,DAV 255,Upperclass Double 
+Dower,DOW 205,Upperclass Double 
+Stone Davis,DAV 356,Upperclass Double 
+Stone Davis,DAV 359,Single 
+Stone Davis,DAV 256,Single 
+Dower,DOW 206,Upperclass Double 
+Stone Davis,DAV 257,Single 
+Stone Davis,DAV 362,Single 
+Dower,DOW 207,Upperclass Double 
+Stone Davis,DAV 259,First-Year Double 
+Stone Davis,DAV 363,Single 
+Stone Davis,DAV 260,First-Year Double 
+Stone Davis,DAV 418,Single 
+Dower,DOW 208,Upperclass Double 
+Stone Davis,DAV 261,First-Year Double 
+Stone Davis,DAV 420,Upperclass Double 
+Stone Davis,DAV 262,Res Staff 
+Freeman,FRE 206,First-Year Double 
+Freeman,FRE 320,Upperclass Double 
+Dower,DOW 209,First-Year Triple 
+Freeman,FRE 207,Single 
+Freeman,FRE 321,Single 
+Dower,DOW 210,Upperclass Double 
+Dower,DOW 211,First-Year Triple 
+Freeman,FRE 208,First-Year Double 
+Freeman,FRE 209,Single 
+Freeman,FRE 210,First-Year Double 
+Freeman,FRE 211,Res Staff 
+Freeman,FRE 322,Upperclass Double 
+Freeman,FRE 401,Single 
+Freeman,FRE 402,Upperclass Double 
+Freeman,FRE 403,Single 
+Dower,DOW 212,3 Room Triple 
+Freeman,FRE 212,First-Year Double 
+Freeman,FRE 404,Upperclass Double 
+Dower,DOW APT,4-Person Apartment 
+Freeman,FRE 101,Single 
+Freeman,FRE 102,First-Year Double 
+Freeman,FRE 103,Single 
+Freeman,FRE 104,First-Year Double 
+Freeman,FRE 105,Single 
+Freeman,FRE 106,First-Year Double 
+Freeman,FRE 107,Single 
+Freeman,FRE 108,First-Year Double 
+Freeman,FRE 110,First-Year Double 
+Freeman,FRE 111,Res Staff 
+Freeman,FRE 112,First-Year Double 
+Freeman,FRE 113,Single 
+Freeman,FRE 115,Single 
+Freeman,FRE 116,First-Year Double 
+Freeman,FRE 117,Single 
+Freeman,FRE 118,First-Year Double 
+Freeman,FRE 119,Single 
+Freeman,FRE 120,First-Year Double 
+Freeman,FRE 121,Single 
+Freeman,FRE 122,First-Year Double 
+Freeman,FRE 201,Single 
+Freeman,FRE 213,Single 
+Freeman,FRE 215,Single 
+Freeman,FRE 216,First-Year Double 
+Freeman,FRE 217,Single 
+Freeman,FRE 218,First-Year Double 
+Freeman,FRE 219,Single 
+Freeman,FRE 220,First-Year Double 
+Freeman,FRE 221,Single 
+Freeman,FRE 222,First-Year Double 
+Freeman,FRE 301,Single 
+Freeman,FRE 302,Upperclass Double 
+Freeman,FRE 303,Single 
+Freeman,FRE 304,Upperclass Double 
+Freeman,FRE 305,Single 
+Freeman,FRE 306,Upperclass Double 
+Freeman,FRE 307,Single 
+Freeman,FRE 308,Upperclass Double 
+Freeman,FRE 309,Single 
+Freeman,FRE 310,Upperclass Double 
+Freeman,FRE 311,Res Staff 
+Freeman,FRE 312,Upperclass Double 
+Freeman,FRE 313,Single 
+Freeman,FRE 315,Single 
+Freeman,FRE 405,Single 
+Freeman,FRE 406,Upperclass Double 
+Freeman,FRE 407,Single 
+Freeman,FRE 408,Upperclass Double 
+Freeman,FRE 409,Single 
+Freeman,FRE 410,Upperclass Double 
+Freeman,FRE 411,Res Staff 
+Freeman,FRE 412,Upperclass Double 
+Freeman,FRE 413,Single 
+Freeman,FRE 415,Single 
+Freeman,FRE 416,Upperclass Double 
+Freeman,FRE 417,Single 
+Freeman,FRE 418,Upperclass Double 
+Freeman,FRE 419,Single 
+Freeman,FRE 420,Upperclass Double 
+Freeman,FRE 421,Single 
+Freeman,FRE 422,Upperclass Double 
+Freeman,FRE 501,Single 
+Freeman,FRE 502,Single 
+Freeman,FRE 503,Single 
+Freeman,FRE 504,Single 
+Freeman,FRE 505,Single 
+Freeman,FRE 202,First-Year Double 
+Freeman,FRE 203,Single 
+Freeman,FRE 204,First-Year Double 
+Freeman,FRE 205,Single 
+Freeman,FRE 316,Upperclass Double 
+Freeman,FRE 317,Single 
+Freeman,FRE 318,Upperclass Double 
+Freeman,FRE 319,Single 
+Hemlock,HEM A,3-Person Apartment 
+Hemlock,HEM B,3-Person Apartment 
+Hemlock,HEM C,4-Person Apartment 
+McAfee,MCA 212,Single 
+McAfee,MCA 320,Single 
+McAfee,MCA 101,Two Room Double 
+McAfee,MCA 213,Upperclass Double 
+McAfee,MCA 321,First-Year Double 
+McAfee,MCA 102,Two Room Double 
+McAfee,MCA 214,Single 
+McAfee,MCA 216,Res Staff 
+McAfee,MCA 218,Single 
+McAfee,MCA 322,Single 
+McAfee,MCA 323,First-Year Double 
+McAfee,MCA 324,Single 
+McAfee,MCA 325,First-Year Double 
+McAfee,MCA 103,Two Room Double 
+McAfee,MCA 104,Two Room Double 
+McAfee,MCA 219,Upperclass Double 
+McAfee,MCA 326,Single 
+McAfee,MCA 328,Single 
+McAfee,MCA 105,Upperclass Double 
+McAfee,MCA 106,Upperclass Double 
+McAfee,MCA 107,Upperclass Double 
+McAfee,MCA 108,Single 
+McAfee,MCA 109,Upperclass Double 
+McAfee,MCA 110,Single 
+McAfee,MCA 111,Upperclass Double 
+McAfee,MCA 112,Single 
+McAfee,MCA 113,Upperclass Double 
+McAfee,MCA 114,Single 
+McAfee,MCA 116,Res Staff 
+McAfee,MCA 220,Single 
+McAfee,MCA 221,Upperclass Double 
+McAfee,MCA 222,Single 
+McAfee,MCA 223,Upperclass Double 
+McAfee,MCA 224,Single 
+McAfee,MCA 225,Upperclass Double 
+McAfee,MCA 226,Single 
+McAfee,MCA 228,Single 
+McAfee,MCA 230,Single 
+McAfee,MCA 301,Two Room Double 
+McAfee,MCA 330,Single 
+McAfee,MCA 401,Two Room Double 
+McAfee,MCA 402,Two Room Double 
+McAfee,MCA 403,Two Room Double 
+McAfee,MCA 404,Two Room Double 
+McAfee,MCA 405,First-Year Double 
+McAfee,MCA 406,First-Year Double 
+McAfee,MCA 407,First-Year Double 
+McAfee,MCA 408,Single 
+McAfee,MCA 409,First-Year Double 
+McAfee,MCA 410,Single 
+McAfee,MCA 118,Single 
+McAfee,MCA 302,Two Room Double 
+McAfee,MCA 303,Two Room Double 
+McAfee,MCA 411,First-Year Double 
+McAfee,MCA 412,Single 
+McAfee,MCA 120,Single 
+McAfee,MCA 304,Two Room Double 
+McAfee,MCA 413,First-Year Double 
+McAfee,MCA 121,Upperclass Double 
+McAfee,MCA 305,First-Year Double 
+McAfee,MCA 414,Single 
+McAfee,MCA 122,Upperclass Double 
+McAfee,MCA 306,First-Year Double 
+McAfee,MCA 416,Res Staff 
+McAfee,MCA 201,Two Room Double 
+McAfee,MCA 307,First-Year Double 
+McAfee,MCA 418,Single 
+McAfee,MCA 202,Two Room Double 
+McAfee,MCA 203,Two Room Double 
+McAfee,MCA 308,Single 
+McAfee,MCA 309,First-Year Double 
+McAfee,MCA 419,First-Year Double 
+McAfee,MCA 420,Single 
+McAfee,MCA 204,Two Room Double 
+McAfee,MCA 205,Upperclass Double 
+McAfee,MCA 206,Upperclass Double 
+McAfee,MCA 207,Upperclass Double 
+McAfee,MCA 208,Single 
+McAfee,MCA 209,Upperclass Double 
+McAfee,MCA 210,Single 
+McAfee,MCA 211,Upperclass Double 
+McAfee,MCA 310,Single 
+McAfee,MCA 311,First-Year Double 
+McAfee,MCA 312,Single 
+McAfee,MCA 313,First-Year Double 
+McAfee,MCA 314,Single 
+McAfee,MCA 316,Res Staff 
+McAfee,MCA 318,Single 
+McAfee,MCA 319,First-Year Double 
+McAfee,MCA 421,First-Year Double 
+McAfee,MCA 422,Single 
+McAfee,MCA 423,First-Year Double 
+McAfee,MCA 424,Single 
+McAfee,MCA 425,First-Year Double 
+McAfee,MCA 426,Single 
+McAfee,MCA 428,Single 
+McAfee,MCA 430,Single 
+McAfee,MCA 502,Triple 
+McAfee,MCA RDAPT,4-Person Apartment 
+Stone Davis,STO 212,Single 
+Stone Davis,STO 319,Single 
+Stone Davis,STO 213,Res Staff 
+Stone Davis,STO 320,Single 
+Stone Davis,STO 214,Single 
+Stone Davis,STO 321,Single 
+Stone Davis,STO 322,Single 
+Stone Davis,STO 215,First-Year Double 
+Stone Davis,STO 323,Single 
+Orchid,ORC 100,3-Person Apartment 
+Stone Davis,STO 218,First-Year Double 
+Stone Davis,STO 324,Single 
+Orchid,ORC 200,3-Person Apartment 
+Stone Davis,STO 219,First-Year Double 
+Stone Davis,STO 326,Single 
+Stone Davis,STO 220,Single 
+Stone Davis,STO 327,Single 
+Stone Davis,STO 221,Single 
+Stone Davis,STO 328,Single 
+Stone Davis,STO 222,Upperclass Double 
+Stone Davis,STO 330,Upperclass Double 
+Stone Davis,STO 002,First-Year Triple 
+Stone Davis,STO 402,Single 
+Stone Davis,STO 003,First-Year Triple 
+Stone Davis,STO 223,Single 
+Stone Davis,STO 404,Upperclass Double 
+Stone Davis,STO 224,Single 
+Stone Davis,STO 004,First-Year Triple 
+Stone Davis,STO 405,Single 
+Stone Davis,STO 005,First-Year Triple 
+Stone Davis,STO 225,Single 
+Stone Davis,STO 406,Single 
+Stone Davis,STO 226,Upperclass Double 
+Stone Davis,STO 008,First-Year Triple 
+Stone Davis,STO 407,Res Staff 
+Stone Davis,STO 009,Res Staff 
+Stone Davis,STO 227,Single 
+Stone Davis,STO 408,Upperclass Double 
+Stone Davis,STO 101,First-Year Triple 
+Stone Davis,STO 228,Res Staff 
+Stone Davis,STO 410,Single 
+Stone Davis,STO 230,Single 
+Stone Davis,STO 102,First-Year Triple 
+Stone Davis,STO 411,Single 
+Stone Davis,STO 105,First-Year Double 
+Stone Davis,STO 231,Single 
+Stone Davis,STO 412,Upperclass Double 
+Stone Davis,STO 232,Single 
+Stone Davis,STO 106,Single 
+Stone Davis,STO 413,Single 
+Stone Davis,STO 108,First-Year Double 
+Stone Davis,STO 233,Single 
+Stone Davis,STO 414,Single 
+Stone Davis,STO 234,Single 
+Stone Davis,STO 109,First-Year Double 
+Stone Davis,STO 415,Single 
+Stone Davis,STO 110,Single 
+Stone Davis,STO 236,Upperclass Double 
+Stone Davis,STO 302,Single 
+Stone Davis,STO 111,Res Staff 
+Stone Davis,STO 303,Single 
+Stone Davis,STO 113,Upperclass Double 
+Stone Davis,STO 114,First-Year Double 
+Stone Davis,STO 305,Single 
+Stone Davis,STO 115,Single 
+Stone Davis,STO 308,Upperclass Double 
+Stone Davis,STO 118,Triple 
+Stone Davis,STO 309,Upperclass Double 
+Stone Davis,STO 310,Single 
+Stone Davis,STO 201,First-Year Triple 
+Stone Davis,STO 202,First-Year Triple 
+Stone Davis,STO 311,Upperclass Double 
+Stone Davis,STO 313,Upperclass Double 
+Stone Davis,STO 206,Single 
+Stone Davis,STO 314,Single 
+Stone Davis,STO 207,First-Year Double 
+Stone Davis,STO 208,Single 
+Stone Davis,STO 315,Res Staff 
+Stone Davis,STO 316,Upperclass Double 
+Stone Davis,STO 209,Single 
+Stone Davis,STO 211,Single 
+Stone Davis,STO 317,Single 
+Stone Davis,STO 318,Single 
+Beebe,BEB 217,First-Year Double 
+Beebe,BEB 323,Single 
+Beebe,BEB 218,First-Year Double 
+Beebe,BEB 325,Upperclass Double 
+Beebe,BEB 001,Single 
+Beebe,BEB 002,Single 
+Beebe,BEB 003,Single 
+Beebe,BEB 004,Single 
+Beebe,BEB 005,Single 
+Beebe,BEB 006,Single 
+Beebe,BEB 007,Single 
+Beebe,BEB 103,First-Year Double 
+Beebe,BEB 105,Upperclass Double 
+Beebe,BEB 106,Res Staff 
+Beebe,BEB 107,First-Year Double 
+Beebe,BEB 109,Upperclass Double 
+Beebe,BEB 110,Upperclass Double 
+Beebe,BEB 111,Upperclass Double 
+Beebe,BEB 112,First-Year Double 
+Beebe,BEB 113,First-Year Double 
+Beebe,BEB 115,Upperclass Double 
+Beebe,BEB 200,Triple 
+Beebe,BEB 201,Triple 
+Beebe,BEB 202,Upperclass Double 
+Beebe,BEB 204,Upperclass Double 
+Beebe,BEB 205,Single 
+Beebe,BEB 219,First-Year Double 
+Beebe,BEB 220,Upperclass Double 
+Beebe,BEB 221,Upperclass Double 
+Beebe,BEB 223,Upperclass Double 
+Beebe,BEB 224,Single 
+Beebe,BEB 225,Single 
+Beebe,BEB 226,Single 
+Beebe,BEB 227,Single 
+Beebe,BEB 228,Single 
+Beebe,BEB 229,Single 
+Beebe,BEB 231,Single 
+Beebe,BEB 300,Single 
+Beebe,BEB 301,Single 
+Beebe,BEB 302,Single 
+Beebe,BEB 303,Single 
+Beebe,BEB 304,Single 
+Beebe,BEB 306,First-Year Double 
+Beebe,BEB 307,Single 
+Beebe,BEB 308,Single 
+Beebe,BEB 309,Upperclass Double 
+Beebe,BEB 310,First-Year Double 
+Beebe,BEB 311,Upperclass Double 
+Beebe,BEB 400,Single 
+Beebe,BEB 401,Single 
+Beebe,BEB 402,Single 
+Beebe,BEB 403,Single 
+Beebe,BEB 404,Single 
+Beebe,BEB 406,Single 
+Beebe,BEB 407,Single 
+Beebe,BEB 408,Single 
+Beebe,BEB 409,Single 
+Beebe,BEB 410,Single 
+Beebe,BEB 411,Single 
+Beebe,BEB 412,Res Staff 
+Beebe,BEB 413,Single 
+Beebe,BEB 414,Single 
+Beebe,BEB 415,Single 
+Beebe,BEB 416,Single 
+Beebe,BEB 417,Single 
+Beebe,BEB 419,Single 
+Beebe,BEB 420,Single 
+Beebe,BEB 421,Single 
+Beebe,BEB 422,Single 
+Beebe,BEB 423,Single 
+Beebe,BEB 206,Upperclass Double 
+Beebe,BEB 207,First-Year Double 
+Beebe,BEB 312,Res Staff 
+Beebe,BEB 313,Upperclass Double 
+Beebe,BEB 425,Single 
+Beebe,BEB 500,Single 
+Beebe,BEB 208,First-Year Double 
+Beebe,BEB 314,First-Year Double 
+Beebe,BEB 501,Single 
+Beebe,BEB 209,First-Year Double 
+Beebe,BEB 315,First-Year Double 
+Beebe,BEB 502,Single 
+Beebe,BEB 210,Res Staff 
+Beebe,BEB 316,Single 
+Beebe,BEB 503,Single 
+Beebe,BEB 211,First-Year Double 
+Beebe,BEB 317,First-Year Double 
+Beebe,BEB 504,Single 
+Beebe,BEB 212,Single 
+Beebe,BEB 319,First-Year Double 
+Beebe,BEB 320,Single 
+Beebe,BEB RDAPT,4-Person Apartment 
+Beebe,BEB 213,Single 
+Beebe,BEB 214,First-Year Double 
+Beebe,BEB 321,Upperclass Double 
+Beebe,BEB 215,First-Year Double 
+Beebe,BEB 322,Upperclass Double 
+Cazenove,CAZ 215,First-Year Double 
+Cazenove,CAZ 331,2 Room Double 
+CAZENOVE Cazenove,CAZ 216,First-Year Double 
+Cazenove,CAZ 332,Upperclass Double 
+Cazenove,CAZ 001,Single 
+Cazenove,CAZ 002,Single 
+Cazenove,CAZ 004,Single 
+Cazenove,CAZ 005,Single 
+Cazenove,CAZ 006,Single 
+Cazenove,CAZ 007,Single 
+Cazenove,CAZ 008,Single 
+Cazenove,CAZ 009,Single 
+Cazenove,CAZ 101,First-Year Double 
+Cazenove,CAZ 102,Res Staff 
+Cazenove,CAZ 103,First-Year Double 
+Cazenove,CAZ 104,Single 
+Cazenove,CAZ 105,First-Year Double 
+Cazenove,CAZ 106,Single 
+Cazenove,CAZ 107,First-Year Double 
+Cazenove,CAZ 109,First-Year Double 
+Cazenove,CAZ 110,First-Year Double 
+Cazenove,CAZ 111,First-Year Double 
+Cazenove,CAZ 112,First-Year Double 
+Cazenove,CAZ 113,First-Year Double 
+Cazenove,CAZ 115,First-Year Double 
+Cazenove,CAZ 201,First-Year Double 
+Cazenove,CAZ 203,First-Year Double 
+Cazenove,CAZ 204,First-Year Double 
+Cazenove,CAZ 205,First-Year Double 
+Cazenove,CAZ 206,First-Year Double 
+Cazenove,CAZ 207,First-Year Double 
+Cazenove,CAZ 208,Res Staff 
+Cazenove,CAZ 209,First-Year Double 
+Cazenove,CAZ 210,First-Year Double 
+Cazenove,CAZ 211,First-Year Double 
+Cazenove,CAZ 213,First-Year Double 
+Cazenove,CAZ 214,First-Year Double 
+Cazenove,CAZ 217,First-Year Double 
+Cazenove,CAZ 219,First-Year Double 
+Cazenove,CAZ 220,Upperclass Double 
+Cazenove,CAZ 221,Upperclass Double 
+Cazenove,CAZ 222,Single 
+Cazenove,CAZ 223,Single 
+Cazenove,CAZ 224,Single 
+Cazenove,CAZ 226,Single 
+Cazenove,CAZ 227,Upperclass Double 
+Cazenove,CAZ 307,Upperclass Double 
+Cazenove,CAZ 309,Upperclass Double 
+Cazenove,CAZ 310,Upperclass Double 
+Cazenove,CAZ 311,Upperclass Double 
+Cazenove,CAZ 312,Upperclass Double 
+Cazenove,CAZ 313,Single 
+Cazenove,CAZ 314,Res Staff 
+Cazenove,CAZ 315,Single 
+Cazenove,CAZ 316,Upperclass Double 
+Cazenove,CAZ 317,Single 
+Cazenove,CAZ 319,Single 
+Cazenove,CAZ 320,Single 
+Cazenove,CAZ 321,Upperclass Double 
+Cazenove,CAZ 322,Single 
+Cazenove,CAZ 323,Upperclass Double 
+Cazenove,CAZ 324,Upperclass Double 
+Cazenove,CAZ 325,Single 
+Cazenove,CAZ 326,Single 
+Cazenove,CAZ 327,Single 
+Cazenove,CAZ 328,Single 
+Cazenove,CAZ 329,Single 
+Cazenove,CAZ 330,Single 
+Cazenove,CAZ 333,Single 
+Cazenove,CAZ 334,Upperclass Double 
+Cazenove,CAZ 335,Single 
+Cazenove,CAZ 336,Single 
+Cazenove,CAZ 337,Upperclass Double 
+Cazenove,CAZ 338,Upperclass Double 
+Cazenove,CAZ 400,Single 
+Cazenove,CAZ 401,Single 
+Cazenove,CAZ 402,Single 
+Cazenove,CAZ 403,Single 
+Cazenove,CAZ 404,Single 
+Cazenove,CAZ 405,Single 
+Cazenove,CAZ 407,Single 
+Cazenove,CAZ 409,First-Year Double 
+Cazenove,CAZ 410,Upperclass Double 
+Cazenove,CAZ 411,First-Year Double 
+Cazenove,CAZ 412,Single 
+Cazenove,CAZ 413,Single 
+Cazenove,CAZ 414,Res Staff 
+Cazenove,CAZ 415,Single 
+Cazenove,CAZ 416,First-Year Double 
+Cazenove,CAZ 417,First-Year Double 
+Cazenove,CAZ 419,Single 
+Cazenove,CAZ 420,Upperclass Double 
+Cazenove,CAZ 421,First-Year Double 
+Cazenove,CAZ 422,Single 
+Cazenove,CAZ 423,First-Year Double 
+Cazenove,CAZ 425,Single 
+Cazenove,CAZ 426,Upperclass Double 
+Cazenove,CAZ 427,Single 
+Cazenove,CAZ 428,Single 
+Cazenove,CAZ 429,Single 
+Cazenove,CAZ 430,Single 
+Munger,MUN 137,Res Staff 
+Munger,MUN 231,First-Year Double 
+Cazenove,CAZ 432,Upperclass Double 
+Munger,MUN 139,Single 
+Munger,MUN 231A,Single 
+Cazenove,CAZ 500,Single 
+Munger,MUN 141,Single 
+Munger,MUN 232,Single 
+Cazenove,CAZ 501,Single 
+Munger,MUN 143,Single 
+Munger,MUN 233,Single 
+Cazenove,CAZ 502,Single 
+Munger,MUN 145,Upperclass Double 
+Munger,MUN 234,Single 
+Cazenove,CAZ 503,Single 
+Munger,MUN 146,Upperclass Double 
+Munger,MUN 235,Single 
+Cazenove,CAZ 504,Single 
+Munger,MUN 147,Single 
+Munger,MUN 236,Single 
+Munger,MUN 201,Single 
+Munger,MUN 237,Res Staff 
+Munger,MUN 202,First-Year Double 
+Munger,MUN 239,Single 
+Munger,MUN 203,Upperclass Double 
+Munger,MUN 241,Single 
+Munger,MUN 205,Single 
+Munger,MUN 243,Single 
+Munger,MUN 034,Single 
+Munger,MUN 207,Single 
+Munger,MUN 245,First-Year Double 
+Munger,MUN 036,Single 
+Munger,MUN 209,Single 
+Munger,MUN 246,First-Year Double 
+Munger,MUN 037,Single 
+Munger,MUN 210,Single 
+Munger,MUN 247,Single 
+Munger,MUN 038,Single 
+Munger,MUN 211,Res Staff 
+Munger,MUN 301,Single 
+Munger,MUN 043,Single 
+Munger,MUN 212,Single 
+Munger,MUN 302,Single 
+Munger,MUN 044,Single 
+Munger,MUN 213,Single 
+Munger,MUN 303,Upperclass Double 
+Munger,MUN 045,Single 
+Munger,MUN 214,Single 
+Munger,MUN 305,Single 
+Munger,MUN 046,Single 
+Munger,MUN 215,Single 
+Munger,MUN 307,Single 
+Munger,MUN 047,Triple 
+Munger,MUN 216,First-Year Double 
+Munger,MUN 309,Single 
+Munger,MUN 101,Single 
+Munger,MUN 217,Single 
+Munger,MUN 310,Single 
+Munger,MUN 102,First-Year Double 
+Munger,MUN 218,Single 
+Munger,MUN 311,Res Staff 
+Munger,MUN 103,First-Year Double 
+Munger,MUN 312,Single 
+Munger,MUN 105,Single 
+Munger,MUN 219,Single 
+Munger,MUN 313,Single 
+Munger,MUN 107,First-Year Double 
+Munger,MUN 221,First-Year Double 
+Munger,MUN 314,Single 
+Munger,MUN 109,Res Staff 
+Munger,MUN 223,Upperclass Double 
+Munger,MUN 315,Single 
+Munger,MUN 111,Single 
+Munger,MUN 224,Single 
+Munger,MUN 316,Single 
+Munger,MUN 113,Single 
+Munger,MUN 224A,Single 
+Munger,MUN 317,Single 
+Munger,MUN 114,Single 
+Munger,MUN 225,Upperclass Double 
+Munger,MUN 318,Single 
+Munger,MUN 115,Single 
+Munger,MUN 226,Single 
+Munger,MUN 116,First-Year Double 
+Munger,MUN 226A,Single 
+Munger,MUN 319,Single 
+Munger,MUN 117,Single 
+Munger,MUN 227,Upperclass Double 
+Munger,MUN 321,First-Year Double 
+Munger,MUN 118,Single 
+Munger,MUN 228,Single 
+Munger,MUN 323,First-Year Double 
+Munger,MUN 133,Single 
+Munger,MUN 228A,Single 
+Munger,MUN 324,Single 
+Munger,MUN 135,Single 
+Munger,MUN 229,First-Year Double 
+Munger,MUN 325,First-Year Double 
+Munger,MUN 136,Upperclass Double 
+Munger,MUN 230,Suite for 4 with Bathroom 
+Munger,MUN 326,Single 
+Munger,MUN 326A,Single 
+Pomeroy,POM 111,First-Year Double 
+Pomeroy,POM 301,Upperclass Double 
+Munger,MUN 327,First-Year Double 
+Munger,MUN 328,Single 
+Pomeroy,POM 112,First-Year Double 
+Pomeroy,POM 201,Upperclass Double 
+Pomeroy,POM 302,Upperclass Double 
+Munger,MUN 328A,Single 
+Munger,MUN 329,First-Year Double 
+Munger,MUN 330,Suite for 4 with Bathroom 
+Pomeroy,POM 202,Upperclass Double 
+Pomeroy,POM 203,Upperclass Double 
+Pomeroy,POM 204,Upperclass Double 
+Pomeroy,POM 303,Upperclass Double 
+Pomeroy,POM 304,Upperclass Double 
+Munger,MUN 331,First-Year Double 
+Pomeroy,POM 205,Upperclass Double 
+Pomeroy,POM 305,Upperclass Double 
+Munger,MUN 331A,Single 
+Pomeroy,POM 206,Upperclass Double 
+Pomeroy,POM 306,First-Year Double 
+Munger,MUN 332,Single 
+Munger,MUN 333,Single 
+Munger,MUN 334,Single 
+Munger,MUN 335,Single 
+Munger,MUN 336,Single 
+Pomeroy,POM 207,Upperclass Double 
+Pomeroy,POM 208,First-Year Double 
+Pomeroy,POM 209,First-Year Double 
+Pomeroy,POM 210,Res Staff 
+Pomeroy,POM 211,First-Year Double 
+Pomeroy,POM 307,Upperclass Double 
+Pomeroy,POM 308,Upperclass Double 
+Pomeroy,POM 309,Single 
+Munger,MUN 337,Res Staff 
+Pomeroy,POM 212,First-Year Double 
+Pomeroy,POM 310,Res Staff 
+Munger,MUN 339,Single 
+Munger,MUN 341,Single 
+Munger,MUN 343,Single 
+Munger,MUN 345,Upperclass Double 
+Munger,MUN 346,Single 
+Munger,MUN 347,Single 
+Pomeroy,POM 101,First-Year Double 
+Pomeroy,POM 102,First-Year Double 
+Pomeroy,POM 103,Res Staff 
+Pomeroy,POM 104,First-Year Double 
+Pomeroy,POM 105,First-Year Double 
+Pomeroy,POM 105A,Single 
+Pomeroy,POM 106,First-Year Double 
+Pomeroy,POM 107,First-Year Double 
+Pomeroy,POM 213,First-Year Double 
+Pomeroy,POM 214,First-Year Double 
+Pomeroy,POM 215,First-Year Double 
+Pomeroy,POM 216,First-Year Double 
+Pomeroy,POM 217,First-Year Double 
+Pomeroy,POM 218,First-Year Double 
+Pomeroy,POM 219,First-Year Double 
+Pomeroy,POM 220,First-Year Double 
+Pomeroy,POM 221,First-Year Double 
+Pomeroy,POM 222,First-Year Double 
+Pomeroy,POM 223,Single 
+Pomeroy,POM 227,Single 
+Pomeroy,POM 228,Single 
+Pomeroy,POM 229,Single 
+Pomeroy,POM 230,Single 
+Pomeroy,POM 231,Single 
+Pomeroy,POM 232,Single 
+Pomeroy,POM 311,Single 
+Pomeroy,POM 311A,Single 
+Pomeroy,POM 312,Upperclass Double 
+Pomeroy,POM 313,Upperclass Double 
+Pomeroy,POM 314,First-Year Double 
+Pomeroy,POM 315,First-Year Double 
+Pomeroy,POM 316,First-Year Double 
+Pomeroy,POM 317,First-Year Double 
+Pomeroy,POM 318,First-Year Double 
+Pomeroy,POM 319,First-Year Double 
+Pomeroy,POM 320,First-Year Double 
+Pomeroy,POM 321,First-Year Double 
+Pomeroy,POM 322,Single 
+Pomeroy,POM 323,Upperclass Double 
+Pomeroy,POM 324,Single 
+Pomeroy,POM 325,Single 
+Pomeroy,POM 108,First-Year Double 
+Pomeroy,POM 109,First-Year Double 
+Pomeroy,POM 110,First-Year Double 
+Pomeroy,POM 233,Single 
+Pomeroy,POM 234,Single 
+Pomeroy,POM 235,Single 
+Pomeroy,POM 326,Single 
+Pomeroy,POM 327,Single 
+Pomeroy,POM 505,Single 
+Shafer,SHA 205,Single 
+Pomeroy,POM 328,Single 
+Shafer,SHA 206,Upperclass Double 
+Pomeroy,POM 329,Single 
+Shafer,SHA 207,Upperclass Double 
+Shafer,SHA 208,Upperclass Double 
+Pomeroy,POM 401,Upperclass Double 
+Shafer,SHA 001,Single 
+Shafer,SHA 209,Single 
+Pomeroy,POM 402,Single 
+Shafer,SHA 001G,Single 
+Pomeroy,POM 404,Single 
+Shafer,SHA 002,Single 
+Shafer,SHA 210,Upperclass Double 
+Pomeroy,POM 405,Single 
+Shafer,SHA 002G,Upperclass Double 
+Shafer,SHA 211,Upperclass Double 
+Pomeroy,POM 406,Single 
+Shafer,SHA 003,Single 
+Pomeroy,POM 407,Upperclass Double 
+Shafer,SHA 212,Single 
+Shafer,SHA 003G,Single 
+Pomeroy,POM 408,Single 
+Shafer,SHA 004,Single 
+Shafer,SHA 213,Single 
+Pomeroy,POM 409,Res Staff 
+Shafer,SHA 004G,Upperclass Double 
+Pomeroy,POM 410,Single 
+Shafer,SHA 005,Single 
+Shafer,SHA 214,Single 
+Pomeroy,POM 411,Single 
+Shafer,SHA 005G,Upperclass Double 
+Pomeroy,POM 412,Single 
+Shafer,SHA 215,First-Year Double 
+Shafer,SHA 006,Single 
+Pomeroy,POM 413,Single 
+Shafer,SHA 217,Upperclass Double 
+Shafer,SHA 006G,Upperclass Double 
+Pomeroy,POM 414,Single 
+Shafer,SHA 007,Single 
+Shafer,SHA 218,Single 
+Pomeroy,POM 415,Single 
+Shafer,SHA 008,Single 
+Pomeroy,POM 416,Single 
+Shafer,SHA 009,Single 
+Shafer,SHA 219,First-Year Double 
+Pomeroy,POM 417,Single 
+Shafer,SHA 101,Single 
+Shafer,SHA 220,Upperclass Double 
+Pomeroy,POM 418,Single 
+Pomeroy,POM 419,Single 
+Shafer,SHA 103,First-Year Double 
+Shafer,SHA 221,First-Year Double 
+Pomeroy,POM 420,Single 
+Shafer,SHA 105,First-Year Double 
+Shafer,SHA 223,Upperclass Double 
+Pomeroy,POM 421,Single 
+Shafer,SHA 106,Res Staff 
+Shafer,SHA 224,Single 
+Pomeroy,POM 422,Single 
+Shafer,SHA 107,First-Year Double 
+Pomeroy,POM 423,Single 
+Shafer,SHA 109,First-Year Double 
+Shafer,SHA 225,Single 
+Pomeroy,POM 424,Single 
+Shafer,SHA 110,First-Year Double 
+Pomeroy,POM 425,Single 
+Shafer,SHA 111,First-Year Double 
+Shafer,SHA 226,Single 
+Pomeroy,POM 426,Single 
+Shafer,SHA 112,First-Year Double 
+Shafer,SHA 227,Single 
+Shafer,SHA 113,First-Year Double 
+Pomeroy,POM 427,Single 
+Shafer,SHA 115,First-Year Double 
+Shafer,SHA 228,Single 
+Pomeroy,POM 428,Single 
+Shafer,SHA 200,Triple 
+Pomeroy,POM 501,Single 
+Shafer,SHA 229,Single 
+Shafer,SHA 201,Triple 
+Pomeroy,POM 502,Single 
+Shafer,SHA 202,Single 
+Shafer,SHA 230,Single 
+Pomeroy,POM 503,Single 
+Pomeroy,POM 504,Single 
+Shafer,SHA 204,Res Staff 
+Shafer,SHA 231,Single 
+Shafer,SHA 233,Single 
+Shafer,SHA 300,Single 
+Shafer,SHA 301,Single 
+Shafer,SHA 302,Single 
+Shafer,SHA 303,Single 
+Shafer,SHA 304,Single 
+Shafer,SHA 306,Res Staff 
+Shafer,SHA 307,Single 
+Shafer,SHA 308,Upperclass Double 
+Shafer,SHA 309,First-Year Double 
+Shafer,SHA 310,Single 
+Shafer,SHA 311,Single 
+Shafer,SHA 312,Single 
+Shafer,SHA 313,Upperclass Double 
+Shafer,SHA 315,Single 
+Shafer,SHA 403,Single 
+Shafer,SHA 419,Single 
+Shafer,SHA 316,Upperclass Double 
+Shafer,SHA 404,Single 
+Shafer,SHA 420,Single 
+Shafer,SHA 317,Single 
+Shafer,SHA 406,Res Staff 
+Shafer,SHA 421,Single 
+Shafer,SHA 319,First-Year Double 
+Shafer,SHA 407,Single 
+Shafer,SHA 422,Single 
+Shafer,SHA 320,First-Year Double 
+Shafer,SHA 408,Single 
+Shafer,SHA 423,Single 
+Shafer,SHA 321,First-Year Double 
+Shafer,SHA 409,Single 
+Shafer,SHA 425,Single 
+Shafer,SHA 322,Single 
+Shafer,SHA 410,Single 
+Shafer,SHA 500,Single 
+Shafer,SHA 411,Single 
+Shafer,SHA 501,Single 
+Shafer,SHA 323,First-Year Double 
+Shafer,SHA 412,Single 
+Shafer,SHA 502,Single 
+Shafer,SHA 325,Upperclass Double 
+Shafer,SHA 413,Single 
+Shafer,SHA 503,Single 
+Shafer,SHA 414,Single 
+Shafer,SHA 504,Single 
+Shafer,SHA 400,Single 
+Shafer,SHA 415,Single 
+Shafer,SHA RDAPT,4-Person Apartment 
+Shafer,SHA 401,Single 
+Shafer,SHA 416,Single 
+Shafer,SHA 402,Single 
+Shafer,SHA 417,Single 
+Claflin,CLA 202,Single 
+Claflin,CLA 308,Single 
+Claflin,CLA 203,2 Room Double 
+Claflin,CLA 309,First-Year Double 
+Claflin,CLA 001,Suite for 2 with Bathroom 
+Claflin,CLA 204,2 Room Double 
+Claflin,CLA 310,Single 
+Claflin,CLA 002,Suite for 2 with Bathroom 
+Claflin,CLA 205,2 Room Double 
+Claflin,CLA 311,Single 
+Claflin,CLA 003,Single 
+Claflin,CLA 206,2 Room Double 
+Claflin,CLA 312,Single 
+Claflin,CLA G-Suite,Suite for 5 with Bathroom 
+Claflin,CLA 207,Triple 
+Claflin,CLA 313,Single 
+Claflin,CLA 004,Single 
+Claflin,CLA 208,Single 
+Claflin,CLA 005,Single 
+Claflin,CLA 314,Single 
+Claflin,CLA 209,Single 
+Claflin,CLA 022,2 Room Triple 
+Claflin,CLA 315,Single 
+Claflin,CLA 210,Single 
+Claflin,CLA 024,Single 
+Claflin,CLA 316,Single 
+Claflin,CLA 211,Single 
+Claflin,CLA 025,Single 
+Claflin,CLA 317,Res Staff 
+Claflin,CLA 212,Single 
+Claflin,CLA 101,Res Staff 
+Claflin,CLA 318,Single 
+Claflin,CLA 213,Single 
+Claflin,CLA 102,Single 
+Claflin,CLA 319,Single 
+Claflin,CLA 214,Single 
+Claflin,CLA 103,2 Room Double 
+Claflin,CLA 320,Single 
+Claflin,CLA 215,Single 
+Claflin,CLA 104,2 Room Double 
+Claflin,CLA 216,Single 
+Claflin,CLA 321,Single 
+Claflin,CLA 105,2 Room Double 
+Claflin,CLA 217,Single 
+Claflin,CLA 323,Single 
+Claflin,CLA 106,2 Room Double 
+Claflin,CLA 218,Single 
+Claflin,CLA 324,2 Room Triple 
+Claflin,CLA 107,Triple 
+Claflin,CLA 219,Res Staff 
+Claflin,CLA 325,Single 
+Claflin,CLA 108,Single 
+Claflin,CLA 220,Single 
+Claflin,CLA 109,Single 
+Claflin,CLA 221,Single 
+Claflin,CLA 327,Single 
+Claflin,CLA 110,Single 
+Claflin,CLA 222,Suite for 4 with Bathroom 
+Claflin,CLA 111,Single 
+Claflin,CLA 329,Single 
+Claflin,CLA 223,Single 
+Claflin,CLA 112,Single 
+Claflin,CLA 401,2 Room Double 
+Claflin,CLA 224,Single 
+Claflin,CLA 113,Single 
+Claflin,CLA 402,2 Room Double 
+Claflin,CLA 225,Single 
+Claflin,CLA 114,Single 
+Claflin,CLA 405,2 Room Double 
+Claflin,CLA 226,Single 
+Claflin,CLA 115,Single 
+Claflin,CLA 406,2 Room Double 
+Claflin,CLA 227,Single 
+Claflin,CLA 116,Single 
+Claflin,CLA 407,Single 
+Claflin,CLA 228,Single 
+Claflin,CLA 117,Single 
+Claflin,CLA 408,First-Year Double 
+Claflin,CLA 118,Single 
+Claflin,CLA 229,Single 
+Claflin,CLA 409,Single 
+Claflin,CLA 119,Single 
+Claflin,CLA 231,2 Room Triple 
+Claflin,CLA 410,First-Year Double 
+Claflin,CLA 120,Single 
+Claflin,CLA 301,Single 
+Claflin,CLA 411,Single 
+Claflin,CLA 121,Single 
+Claflin,CLA 302,Single 
+Claflin,CLA 122,Upperclass Double 
+Claflin,CLA 303,First-Year Double 
+Claflin,CLA 412,First-Year Double 
+Claflin,CLA 306,First-Year Double 
+Claflin,CLA 414,First-Year Double 
+Claflin,CLA 201,Single 
+Claflin,CLA 307,First-Year Triple 
+Claflin,CLA 416,First-Year Double 
+Claflin,CLA 418,First-Year Double 
+Lake House,LAK 203,Single 
+Claflin,CLA 420,First-Year Double 
+Lake House,LAK 204,Single 
+Claflin,CLA 424,Res Staff 
+Lake House,LAK 205,Single 
+Severance Hall,SEV 001,Single 
+Claflin,CLA 427,Single 
+Lake House,LAK 206,Single 
+Severance Hall,SEV 003,Single 
+Claflin,CLA 501,Single 
+Lake House,LAK 207,Single 
+Severance Hall,SEV 005,Single 
+Claflin,CLA 502,Single 
+Lake House,LAK 208,Single 
+Severance Hall,SEV 006,Single 
+Claflin,CLA 503,Single 
+Lake House,LAK 209,Single 
+Severance Hall,SEV 007,Single 
+Lake House,LAK 210,Single 
+Severance Hall,SEV 008,Triple 
+Lake House,LAK 211,Single 
+Severance Hall,SEV 009,Upperclass Double 
+Lake House,LAK 213,Single 
+Severance Hall,SEV 010,Upperclass Double 
+Lake House,LAK 215,Single 
+Lake House,LAK 101,Single 
+Severance Hall,SEV 012,Single 
+Lake House,LAK 217,Single 
+Lake House,LAK 102,Single 
+Severance Hall,SEV 014,Single 
+Lake House,LAK 219,Single 
+Lake House,LAK 103,Single 
+Severance Hall,SEV 016,Single 
+Lake House,LAK 221,Single 
+Lake House,LAK 104,Single 
+Severance Hall,SEV 019,Upperclass Double 
+Lake House,LAK 222,Single 
+Lake House,LAK 105,Single 
+Severance Hall,SEV 027,Res Staff 
+Lake House,LAK 223,Single 
+Lake House,LAK 106,Single 
+Severance Hall,SEV 029,Upperclass Double 
+Lake House,LAK 224,Single 
+Lake House,LAK 107,Single 
+Severance Hall,SEV 031,Upperclass Double 
+Lake House,LAK 225,Single 
+Lake House,LAK 108,Upperclass Double 
+Severance Hall,SEV 033,Triple 
+Lake House,LAK 226,Single 
+Lake House,LAK 109,Single 
+Severance Hall,SEV 034,Upperclass Double 
+Lake House,LAK 227,Single 
+Lake House,LAK 111,Single 
+Severance Hall,SEV 036,Upperclass Double 
+Lake House,LAK 228,Single 
+Lake House,LAK 113,Single 
+Severance Hall,SEV 038,Upperclass Double 
+Lake House,LAK 229,Single 
+Lake House,LAK 115,Single 
+Severance Hall,SEV 040,Upperclass Double 
+Lake House,LAK 117,Single 
+Severance Hall,SEV 041,Upperclass Double 
+Lake House,LAK 230,Single 
+Lake House,LAK 119,Single 
+Severance Hall,SEV 042,Upperclass Double 
+Lake House,LAK 301,First-Year Double 
+Lake House,LAK 121,Single 
+Severance Hall,SEV 101,Upperclass Double 
+Lake House,LAK 302,First-Year Double 
+Lake House,LAK 123,Single 
+Severance Hall,SEV 103,Single 
+Lake House,LAK 303,First-Year Double 
+Lake House,LAK 124,Single 
+Severance Hall,SEV 104,Upperclass Double 
+Lake House,LAK 304,First-Year Double 
+Lake House,LAK 125,Single 
+Severance Hall,SEV 112,First-Year Triple 
+Lake House,LAK 305,First-Year Double 
+Lake House,LAK 126,Single 
+Severance Hall,SEV 114,First-Year Triple 
+Lake House,LAK 307,First-Year Double 
+Lake House,LAK 127,Single 
+Severance Hall,SEV 115,Single 
+Lake House,LAK 308,First-Year Double 
+Lake House,LAK 128,Single 
+Severance Hall,SEV 116,First-Year Double 
+Lake House,LAK 309,First-Year Double 
+Lake House,LAK 129,Single 
+Severance Hall,SEV 117,Single 
+Lake House,LAK 310,First-Year Double 
+Lake House,LAK 130,Single 
+Severance Hall,SEV 118,First-Year Double 
+Lake House,LAK 311,First-Year Double 
+Lake House,LAK 201,Single 
+Severance Hall,SEV 119,Single 
+Severance Hall,SEV 120,Single 
+Lake House,LAK 202,Single 
+Severance Hall,SEV 121,Single 
+Severance Hall,SEV 213,Upperclass Double 
+Severance Hall,SEV 324,First-Year Double 
+Severance Hall,SEV 214,First-Year Triple 
+Severance Hall,SEV 327,Upperclass Double 
+Severance Hall,SEV 122,Single 
+Severance Hall,SEV 215,Single 
+Severance Hall,SEV 329,Single 
+Severance Hall,SEV 123,Single 
+Severance Hall,SEV 216,First-Year Double 
+Severance Hall,SEV 125,Single 
+Severance Hall,SEV 331,Single 
+Severance Hall,SEV 217,Single 
+Severance Hall,SEV 126,Single 
+Severance Hall,SEV 332,Suite for 2 with Bathroom 
+Severance Hall,SEV 127,First-Year Triple 
+Severance Hall,SEV 218,Upperclass Double 
+Severance Hall,SEV 128,Single 
+Severance Hall,SEV 219,Single 
+Severance Hall,SEV 129,Single 
+Severance Hall,SEV 220,Single 
+Severance Hall,SEV 130,Single 
+Severance Hall,SEV 221,Single 
+Severance Hall,SEV 131,Single 
+Severance Hall,SEV 222,Single 
+Tower Court,TCE 101,Single 
+Severance Hall,SEV 132,Suite for 2 with Bathroom 
+Severance Hall,SEV 223,Single 
+Tower Court,TCE 102,Upperclass Double 
+Severance Hall,SEV 133,Single 
+Severance Hall,SEV 224,Res Staff 
+Tower Court,TCE 103,Upperclass Double 
+Severance Hall,SEV 225,Single 
+Severance Hall,SEV 134,Single 
+Tower Court,TCE 104,Upperclass Double 
+Severance Hall,SEV 226,Single 
+Severance Hall,SEV 135,Upperclass Double 
+Tower Court,TCE 106,Single 
+Severance Hall,SEV 227,Upperclass Double 
+Tower Court,TCE 107,Single 
+Severance Hall,SEV 228,Single 
+Severance Hall,SEV 136,Single 
+Tower Court,TCE 108,Single 
+Severance Hall,SEV 229,Single 
+Tower Court,TCE 109,Single 
+Severance Hall,SEV 137,Single 
+Severance Hall,SEV 230,Single 
+Tower Court,TCE 110,Res Staff 
+Severance Hall,SEV 138,Single 
+Severance Hall,SEV 231,Single 
+Tower Court,TCE 111,Single 
+Severance Hall,SEV 232,Suite for 2 with Bathroom 
+Tower Court,TCE 112,Single 
+Severance Hall,SEV 139,Single 
+Severance Hall,SEV 233,Single 
+Tower Court,TCE 113,Single 
+Severance Hall,SEV 234,Quad Tower Court,TCE 114,Single 
+Severance Hall,SEV 140,Single 
+Severance Hall,SEV 238,First-Year Double 
+Tower Court,TCE 115,Single 
+Severance Hall,SEV 141,Single 
+Severance Hall,SEV 240,First-Year Double 
+Tower Court,TCE 116,Single 
+Severance Hall,SEV 241,Upperclass Double 
+Tower Court,TCE 201,Single 
+Severance Hall,SEV 142,Single 
+Severance Hall,SEV 242,Single 
+Tower Court,TCE 202,First-Year Double 
+Severance Hall,SEV 201,Upperclass Double 
+Severance Hall,SEV 310,Upperclass Double 
+Tower Court,TCE 203,First-Year Double 
+Tower Court,TCE 204,First-Year Double 
+Severance Hall,SEV 202,Upperclass Double 
+Severance Hall,SEV 311,Upperclass Double 
+Severance Hall,SEV 207,Single 
+Severance Hall,SEV 312,Triple 
+Tower Court,TCE 205,Single 
+Severance Hall,SEV 208,Res Staff 
+Severance Hall,SEV 313,First-Year Triple 
+Tower Court,TCE 206,Single 
+Severance Hall,SEV 209,Upperclass Double 
+Severance Hall,SEV 314,Triple 
+Tower Court,TCE 207,Single 
+Severance Hall,SEV 210,Upperclass Double 
+Severance Hall,SEV 316,Res Staff 
+Tower Court,TCE 208,Single 
+Tower Court,TCE 209,Res Staff 
+Severance Hall,SEV 211,Upperclass Double 
+Severance Hall,SEV 318,Single 
+Severance Hall,SEV 212,First-Year Triple 
+Severance Hall,SEV 320,First-Year Triple 
+Tower Court,TCE 210,Single 
+Tower Court,TCE 211,Single 
+Tower Court,TCE 325,Suite for 2 with Bathroom 
+Tower Court,TCE 515,Single 
+Tower Court,TCE 212,Single 
+Tower Court,TCE 517,Single 
+Tower Court,TCE 326,Single 
+Tower Court,TCE 213,Single 
+Tower Court,TCE 519,Res Staff 
+Tower Court,TCE 327,Suite for 3 with Bathroom 
+Tower Court,TCE 214,Single 
+Tower Court,TCE 520,Single 
+Tower Court,TCE 215,Single 
+Tower Court,TCE 521,Upperclass Double 
+Tower Court,TCE 328,Single 
+Tower Court,TCE 216,Single 
+Tower Court,TCE 522,Single 
+Tower Court,TCE 401,Single 
+Tower Court,TCE 217,First-Year Double 
+Tower Court,TCE 523,Single 
+Tower Court,TCE 402,Single 
+Tower Court,TCE 218,First-Year Double 
+Tower Court,TCE 524,Single 
+Tower Court,TCE 403,Single 
+Tower Court,TCE 219,Single 
+Tower Court,TCE 525,Triple 
+Tower Court,TCE 404,Single 
+Tower Court,TCE 221,Suite for 2 with Bathroom 
+Tower Court,TCE 405,Single 
+Tower Court,TCE 526,Single 
+Tower Court,TCE 223,Suite for 2 with Bathroom 
+Tower Court,TCE 406,Single 
+Tower Court,TCE 528,Single 
+Tower Court,TCE 301,Single 
+Tower Court,TCE 407,Single 
+Tower Court,TCE RDAPT,4-Person Apartment 
+Tower Court,TCE 302,First-Year Double 
+Tower Court,TCE 408,Single 
+Tower Court,TCW 118,Single 
+Tower Court,TCE 303,First-Year Double 
+Tower Court,TCE 409,Single 
+Tower Court,TCE 304,First-Year Double 
+Tower Court,TCE 410,Single 
+Tower Court,TCW 140,Single 
+Tower Court,TCE 305,Single 
+Tower Court,TCE 411,Single 
+Tower Court,TCW 141,Single 
+Tower Court,TCE 306,Single 
+Tower Court,TCE 412,Single 
+Tower Court,TCW 142,First-Year Double 
+Tower Court,TCE 307,Single 
+Tower Court,TCE 413,Single 
+Tower Court,TCW 143,Single 
+Tower Court,TCE 308,Single 
+Tower Court,TCE 414,Single 
+Tower Court,TCW 144,First-Year Double 
+Tower Court,TCE 309,Single 
+Tower Court,TCE 415,Single 
+Tower Court,TCW 145,First-Year Double 
+Tower Court,TCE 310,Single 
+Tower Court,TCE 416,Single 
+Tower Court,TCW 146,Single 
+Tower Court,TCE 311,Single 
+Tower Court,TCE 417,Res Staff 
+Tower Court,TCW 147,Single 
+Tower Court,TCE 312,Single 
+Tower Court,TCE 418,Upperclass Double 
+Tower Court,TCW 148,Res Staff 
+Tower Court,TCE 313,Single 
+Tower Court,TCE 419,Upperclass Double 
+Tower Court,TCW 149,Single 
+Tower Court,TCE 314,Single 
+Tower Court,TCE 420,Triple 
+Tower Court,TCW 150,Single 
+Tower Court,TCE 315,Single 
+Tower Court,TCE 421,Suite for 2 with Bathroom 
+Tower Court,TCW 152,First-Year Double 
+Tower Court,TCE 422,Upperclass Double 
+Tower Court,TCW 153,First-Year Double 
+Tower Court,TCE 316,Single 
+Tower Court,TCE 423,Suite for 2 with Bathroom 
+Tower Court,TCW 154,First-Year Double 
+Tower Court,TCE 317,Res Staff 
+Tower Court,TCE 424,Upperclass Double 
+Tower Court,TCW 155,Single 
+Tower Court,TCE 318,First-Year Double 
+Tower Court,TCE 425,Single 
+Tower Court,TCW 234,First-Year Triple 
+Tower Court,TCE 319,Single 
+Tower Court,TCE 426,Single 
+Tower Court,TCW 236,Quad with Bathroom 
+Tower Court,TCE 320,First-Year Triple 
+Tower Court,TCE 427,Single 
+Tower Court,TCW 237,Single 
+Tower Court,TCE 321,Suite for 2 with Bathroom 
+Tower Court,TCE 428,Single 
+Tower Court,TCW 238,First-Year Double 
+Tower Court,TCE 322,First-Year Double 
+Tower Court,TCE 507,Upperclass Double 
+Tower Court,TCW 239,First-Year Double 
+Tower Court,TCE 323,Suite for 2 with Bathroom 
+Tower Court,TCE 508,Triple 
+Tower Court,TCW 240,Single 
+Tower Court,TCW 241,Res Staff 
+Tower Court,TCW 242,Single 
+Tower Court,TCW 243,Single 
+Tower Court,TCW 244,Single 
+Tower Court,TCW 245,Single 
+Tower Court,TCW 246,Single 
+Tower Court,TCW 248,Single 
+Tower Court,TCW 249,Single 
+Tower Court,TCW 250,Single 
+Tower Court,TCW 251,Single 
+Tower Court,TCW 252,Upperclass Double 
+Tower Court,TCW 253,Single 
+Tower Court,TCW 254,Upperclass Double 
+Tower Court,TCW 255,Single 
+Tower Court,TCW 257,Single 
+Tower Court,TCW 329,Suite for 3 with Bathroom 
+Tower Court,TCW 330,Single 
+Tower Court,TCW 331,Suite for 3 with Bathroom 
+Tower Court,TCW 332,Single 
+Tower Court,TCW 333,First-Year Double 
+Tower Court,TCW 334,First-Year Triple 
+Tower Court,TCW 335,Suite for 2 with Bathroom 
+Tower Court,TCW 336,Suite for 2 with Bathroom 
+Tower Court,TCW 337,First-Year Double 
+Tower Court,TCW 338,First-Year Double 
+Tower Court,TCW 339,Res Staff 
+Tower Court,TCW 340,First-Year Double 
+Tower Court,TCW 341,Single 
+Tower Court,TCW 342,Single 
+Tower Court,TCW 343,Single 
+Tower Court,TCW 344,Single 
+Tower Court,TCW 345,Single 
+Tower Court,TCW 346,Single 
+Tower Court,TCW 347,Single 
+Tower Court,TCW 348,Single 
+Tower Court,TCW 349,Single 
+Tower Court,TCW 350,Single 
+Tower Court,TCW 351,Single 
+Tower Court,TCW 352,First-Year Double 
+Tower Court,TCW 353,First-Year Double 
+Tower Court,TCW 354,First-Year Double 
+Tower Court,TCW 355,Single 
+Tower Court,TCW 429,Single 
+Tower Court,TCW 430,Single 
+Tower Court,TCW 431,Upperclass Double 
+Tower Court,TCW 432,Single 
+Tower Court,TCW 433,Upperclass Double 
+Tower Court,TCW 434,Triple 
+Tower Court,TCW 435,Suite for 2 with Bathroom 
+Tower Court,TCW 436,Suite for 2 with Bathroom 
+Tower Court,TCW 437,Upperclass Double 
+Tower Court,TCW 438,Upperclass Double 
+Tower Court,TCW 439,Res Staff 
+Tower Court,TCW 440,Single 
+Tower Court,TCW 441,Single 
+Tower Court,TCW 442,Single 
+Tower Court,TCW 443,Single 
+Tower Court,TCW 444,Single 
+Tower Court,TCW 445,Upperclass Double 
+Tower Court,TCW 446,Single 
+Tower Court,TCW 447,Single 
+Tower Court,TCW 448,Single 
+Tower Court,TCW 449,Single 
+Tower Court,TCW 450,Single 
+Tower Court,TCW 451,Single 
+Tower Court,TCW 452,Upperclass Double 
+Tower Court,TCW 453,Single 
+Tower Court,TCW 454,Upperclass Double 
+Tower Court,TCW 455,Single 
+Tower Court,TCW 530,Single 
+Tower Court,TCW 531,Triple 
+Tower Court,TCW 532,Single 
+Tower Court,TCW 535,Upperclass Double 
+Tower Court,TCW 536,Upperclass Double 
+Tower Court,TCW 537,Res Staff 
+Tower Court,TCW 538,Single 
+Tower Court,TCW 539,Single 
+Tower Court,TCW 540,Single 
+Tower Court,TCW 541,Single 
+Tower Court,TCW 542,Single 
+Tower Court,TCW 553,Triple 
+Tower Court,TCW 555,Upperclass Double 
+Tower Court,TCW 625,Triple 
+Tower Court,TCW 626,Single 
+Tower Court,TCW 628,Single 
+Tower Court,TCW 630,Single 
+Tower Court,TCW 631,Triple 
+Tower Court,TCW 632,Single 
