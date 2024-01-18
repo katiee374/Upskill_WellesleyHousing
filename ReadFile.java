@@ -26,6 +26,10 @@ public class ReadFile{
         }
     }
 
+    public static void main(String[] args){
+        
+    }
+
     // private Building createBuidling(String line) {
     //     String[] tokens = line.split(",");
     // }
