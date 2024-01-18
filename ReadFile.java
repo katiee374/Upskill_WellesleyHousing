@@ -4,7 +4,10 @@ public class ReadFile{
     private ArrayList<Building> wellesley;
 
     public ReadFile(String fn) throws IOException{
-        wellesley = new ArrayList<Building>();
+        wellesley = new Wellesley();
+        Hashtable[] wellesley = new Hashtable[13];
+        int i = 0; //iterator for wellesley array of hashtables
+
         Scanner bob = new Scanner(new File(fn));
         Room tempRoom;
         Building tempBuilding = new Building("Bates");
@@ -16,15 +19,22 @@ public class ReadFile{
             //IF tokens[2].contains("double") then just import double
             //IF tokens[2].contains("triple") then just import triple
             tempRoom = new Room(tokens[0], tokens[2], tokens[1]);
-            if(tempRoom.getLocation().equals(tempBuilding.getName())){
+            if(tempRoom.getLocation().equals(wellesley[i]){
+                //if the room locqation = current wellesley[] building then..
+                //check type of room and then sort accordin
                 tempBuilding.addRoom(tempRoom);
             } else {
+                //iterate one forward in wellesley[]
+                //increase our index i
+                //then sort room accordingly
                 wellesley.add(tempBuilding);
                 tempBuilding = new Building(tempRoom.getLocation());
                 tempBuilding.addRoom(tempRoom);
             }
         }
     }
+
+   
 
     // private Building createBuidling(String line) {
     //     String[] tokens = line.split(",");
