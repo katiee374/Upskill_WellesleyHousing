@@ -34,6 +34,10 @@ public class Room{
     public void setLocation(String l){
         location = l;
     }
+    public String toString(){
+        return  location + " " + roomNumber + " " + type ;
+    }
+
     /*
      * public int getFloor() {
      *      return floor;
