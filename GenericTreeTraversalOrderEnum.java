@@ -3,8 +3,6 @@
  Distributed under the BSD License
 */
 
-package datastructures;
-
 public enum GenericTreeTraversalOrderEnum {
     PRE_ORDER,
     POST_ORDER
