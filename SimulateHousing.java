@@ -4,6 +4,7 @@ import java.util.*;
 public class SimulateHousing {
 
     private String buildingName;
+    private String roomType;
     private final String[] dorms = { "Bates", "Stone Davis", "Freeman", "McAfee", "Beebe", "Cazenove", "Munger",
             "Bates",
             "Pomeroy", "Shafer", "Claflin", "Tower Court", "Lake House", "Severance Hall" };
@@ -13,43 +14,42 @@ public class SimulateHousing {
     public SimulateHousing() throws IOException {
         wellesley = new CollectionBuildings();
         Scanner scan = new Scanner(System.in);
-        String response = "";
-        String roomTypesList = "";
-        String result = "";
-        ArrayList<String> roomTypes = new ArrayList<String>();
-        String roomType = "";
+        String response = ""; // response user input
+        String roomTypesList = ""; // list of avalible types of rooms in string form
+        String result = ""; // final list of rooms
+        ArrayList<String> roomTypes = new ArrayList<String>(); // list of avalible types of rooms in arrayList form
         do {
             System.out.println("Which dorm would you like to live in?" +
-                    "\nPick one: Bates, Stone Davis, Freeman, McAfee, Beebe, Cazenove, Munger, Bates, Pomeroy, Shafer, Claflin, Tower Court, Lake House, Severance Hall\n");
-            buildingType = scan.nextLine();
+                    "\nPick one: Bates, Stone Davis, Freeman, McAfee, Beebe, Cazenove, Munger,\n Bates, Pomeroy, Shafer, Claflin, Tower Court, Lake House, Severance Hall\n");
+            response = scan.nextLine();
             response = returnRoomTypes(response);
+            System.out.println(response);
         } while (response.equals("Building not found! Try again"));
+        
         roomTypesList = response;
 
+        //adds rooms to an arrayList
         Scanner scanRoomsTypes = new Scanner(roomTypesList);
         scanRoomsTypes.nextLine();
         while (scanRoomsTypes.hasNextLine()) {
             roomTypes.add(scanRoomsTypes.nextLine());
         }
             scanRoomsTypes.close();
+        /*for(int i = 0; i < roomTypes.size(); i++){
+            System.out.println(roomTypes.get(i) + "*");
+        }
+     */
+
+    
  // checks room types exists
        // boolean found = false;
-       // do {
+       //do {
+        do {
             System.out.println("What type of room would you like to live in?");
-            System.out.println(roomTypesList);
-            roomType = scan.nextLine()+" ";
-            
-            /*for (int i = 0; i < roomTypes.size(); i++) {
-                if (response.equalsIgnoreCase(roomTypes.get(i))) {
-                    found = true;
-                    roomType = roomTypes.get(i); 
-                } else {
-                    System.out.println("Building Type not Found. Try Again!!");
-                }
-            }
-        } while (!found);
-              
-*/
+            response = scan.nextLine() + " ";
+            response = returnAvalibleRooms(response, roomTypes);
+        } while (response.equals("Room Type not Found. Try Again!!"));
+
         result = wellesley.returnRooms(buildingName, roomType);
         System.out.println(result);
 
@@ -58,9 +58,8 @@ public class SimulateHousing {
     }
 
     public String returnRoomTypes(String input) {
-
         for (int i = 0; i < dorms.length; i++) {
-            if (input.equalsIgnoreCase(input)) {
+            if (input.equalsIgnoreCase(dorms[i])) {
                 buildingName = dorms[i];
                 return wellesley.returnRoomTypes(dorms[i]);
             }
@@ -68,6 +67,15 @@ public class SimulateHousing {
         return "Building not found! Try again";
     }
 
+    public String returnAvalibleRooms(String response, ArrayList<String> roomTypes){
+        for (int i = 0; i < roomTypes.size(); i++) {
+                if (response.equalsIgnoreCase(roomTypes.get(i))) {
+                    roomType = roomTypes.get(i);
+                    return roomTypes.get(i); 
+                }
+            }
+            return("Room Type not Found. Try Again!!");
+    }
     
     
 

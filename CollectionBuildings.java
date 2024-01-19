@@ -77,7 +77,6 @@ public class CollectionBuildings {
                                                                                // has
         int num = tempTypes.size();
         System.out.println("Types of rooms avalible- " + num);
-
         for (int i = 0; i < num; i++) {
             temp += tempTypes.get(i).getType();
             temp += "\n";
