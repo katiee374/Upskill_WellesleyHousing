@@ -7,7 +7,6 @@ public class SimulateHousing {
     private final String[] dorms = { "Bates", "Stone Davis", "Freeman", "McAfee", "Beebe", "Cazenove", "Munger",
             "Bates",
             "Pomeroy", "Shafer", "Claflin", "Tower Court", "Lake House", "Severance Hall" };
-
     private CollectionBuildings wellesley;
 
     public SimulateHousing() throws IOException {
@@ -21,35 +20,37 @@ public class SimulateHousing {
         do {
             System.out.println("Which dorm would you like to live in?" +
                     "\nPick one: Bates, Stone Davis, Freeman, McAfee, Beebe, Cazenove, Munger, Bates, Pomeroy, Shafer, Claflin, Tower Court, Lake House, Severance Hall\n");
-            buildingType = scan.nextLine();
+            // formerly was buildingType = scan.nextLine();
+            // buildingType was never declared so we changed it
+            buildingName = scan.nextLine();
             response = returnRoomTypes(response);
         } while (response.equals("Building not found! Try again"));
         roomTypesList = response;
-
         Scanner scanRoomsTypes = new Scanner(roomTypesList);
         scanRoomsTypes.nextLine();
         while (scanRoomsTypes.hasNextLine()) {
             roomTypes.add(scanRoomsTypes.nextLine());
         }
-            scanRoomsTypes.close();
- // checks room types exists
-       // boolean found = false;
-       // do {
-            System.out.println("What type of room would you like to live in?");
-            System.out.println(roomTypesList);
-            roomType = scan.nextLine()+" ";
-            
-            /*for (int i = 0; i < roomTypes.size(); i++) {
-                if (response.equalsIgnoreCase(roomTypes.get(i))) {
-                    found = true;
-                    roomType = roomTypes.get(i); 
-                } else {
-                    System.out.println("Building Type not Found. Try Again!!");
-                }
-            }
-        } while (!found);
-              
-*/
+        scanRoomsTypes.close();
+        // checks room types exists
+        // boolean found = false;
+        // do {
+        System.out.println("What type of room would you like to live in?");
+        System.out.println(roomTypesList);
+        roomType = scan.nextLine() + " ";
+
+        /*
+         * for (int i = 0; i < roomTypes.size(); i++) {
+         * if (response.equalsIgnoreCase(roomTypes.get(i))) {
+         * found = true;
+         * roomType = roomTypes.get(i);
+         * } else {
+         * System.out.println("Building Type not Found. Try Again!!");
+         * }
+         * }
+         * } while (!found);
+         * 
+         */
         result = wellesley.returnRooms(buildingName, roomType);
         System.out.println(result);
 
@@ -67,9 +68,6 @@ public class SimulateHousing {
         }
         return "Building not found! Try again";
     }
-
-    
-    
 
     /*
      * private String chooseRoomType(String building) {
