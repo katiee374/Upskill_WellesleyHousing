@@ -46,7 +46,7 @@ public class SimulateHousing {
             System.out.println("What type of room would you like to live in?");
             response = scan.nextLine() + " ";
             response = returnAvalibleRooms(response, roomTypes);
-            System.out.println(response);
+            //System.out.println(response);
         } while (response.equals("Room Type not Found. Try Again!!"));
 
         result = wellesley.returnRooms(buildingName, roomType);
