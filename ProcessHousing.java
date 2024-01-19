@@ -106,6 +106,7 @@ public class ProcessHousing {
             }
               
          writer.close();
+         scan.close();
         } catch (IOException ex) {
             System.out.println("***ERROR***" + fileName + " could not be written");
         }

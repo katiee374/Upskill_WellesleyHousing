@@ -77,21 +77,21 @@ Bates,BAT 318,Upperclass Double
 Bates,BAT 205,Single 
 Bates,BAT 319,Single 
 Bates,BAT 206,First-Year Double 
-Bates,BAT 320,Upperclass Double
+Bates,BAT 320,Upperclass Double 
 Bates,BAT 207,Single 
 Bates,BAT 321,Single 
 Bates,BAT 208,First-Year Double 
-Bates,BAT 322,Upperclass Double
-Bates,BAT 209,Single
+Bates,BAT 322,Upperclass Double 
+Bates,BAT 209,Single 
 Bates,BAT 210,First-Year Double 
-Bates,BAT 401,Single
+Bates,BAT 401,Single 
 Bates,BAT 211,Res Staff 
 Bates,BAT 402,Upperclass Double 
 Stone Davis,DAV 057,Res Staff 
-Stone Davis,DAV 058,First-Year Triple
-Stone Davis,DAV 059,First-Year Triple
-Stone Davis,DAV 060,First-Year Triple
-Stone Davis,DAV 061,First-Year Triple
+Stone Davis,DAV 058,First-Year Triple 
+Stone Davis,DAV 059,First-Year Triple 
+Stone Davis,DAV 060,First-Year Triple 
+Stone Davis,DAV 061,First-Year Triple 
 Stone Davis,DAV 062,First-Year Triple 
 Stone Davis,DAV 135,Single 
 Stone Davis,DAV 263,Single 
@@ -123,7 +123,7 @@ Stone Davis,DAV 334,Upperclass Double
 Stone Davis,DAV 150,First-Year Double 
 Stone Davis,DAV 336,Single 
 Stone Davis,DAV 151,Single 
-Stone Davis,DAV 337,Upperclass Double
+Stone Davis,DAV 337,Upperclass Double 
 Stone Davis,DAV 152,First-Year Double 
 Stone Davis,DAV 338,Single 
 Stone Davis,DAV 153,First-Year Triple 
@@ -252,7 +252,7 @@ Stone Davis,STO 318,Single
 Freeman,FRE 206,First-Year Double 
 Freeman,FRE 320,Upperclass Double 
 Freeman,FRE 207,Single 
-Freeman,FRE 321,Single
+Freeman,FRE 321,Single 
 Freeman,FRE 208,First-Year Double 
 Freeman,FRE 209,Single 
 Freeman,FRE 210,First-Year Double 
@@ -336,7 +336,7 @@ Freeman,FRE 205,Single
 Freeman,FRE 316,Upperclass Double 
 Freeman,FRE 317,Single 
 Freeman,FRE 318,Upperclass Double 
-Freeman,FRE 319,Single
+Freeman,FRE 319,Single 
 McAfee,MCA 212,Single 
 McAfee,MCA 320,Single 
 McAfee,MCA 101,Two Room Double 
@@ -634,9 +634,9 @@ Cazenove,CAZ 427,Single
 Cazenove,CAZ 428,Single 
 Cazenove,CAZ 429,Single 
 Cazenove,CAZ 430,Single 
-Cazenove,CAZ 432,Upperclass Double
-Cazenove,CAZ 500,Single
-Cazenove,CAZ 501,Single
+Cazenove,CAZ 432,Upperclass Double 
+Cazenove,CAZ 500,Single 
+Cazenove,CAZ 501,Single 
 Cazenove,CAZ 503,Single 
 Cazenove,CAZ 504,Single 
 Cazenove,CAZ 502,Single 
@@ -878,7 +878,7 @@ Shafer,SHA 212,Single
 Shafer,SHA 003G,Single 
 Shafer,SHA 004,Single 
 Shafer,SHA 213,Single 
-Shafer,SHA 004G,Upperclass Double
+Shafer,SHA 004G,Upperclass Double 
 Shafer,SHA 005,Single 
 Shafer,SHA 214,Single 
 Shafer,SHA 005G,Upperclass Double 
@@ -1128,7 +1128,7 @@ Lake House,LAK 129,Single
 Lake House,LAK 310,First-Year Double 
 Lake House,LAK 130,Single 
 Lake House,LAK 311,First-Year Double 
-Lake House,LAK 201,Single
+Lake House,LAK 201,Single 
 Lake House,LAK 202,Single 
 Lake House,LAK 203,Single 
 Severance Hall,SEV 001,Single 
@@ -1161,8 +1161,8 @@ Severance Hall,SEV 115,Single
 Severance Hall,SEV 116,First-Year Double 
 Severance Hall,SEV 117,Single 
 Severance Hall,SEV 118,First-Year Double 
-Severance Hall,SEV 119,Single
-Severance Hall,SEV 120,Single
+Severance Hall,SEV 119,Single 
+Severance Hall,SEV 120,Single 
 Severance Hall,SEV 121,Single 
 Severance Hall,SEV 213,Upperclass Double 
 Severance Hall,SEV 324,First-Year Double 
@@ -1193,21 +1193,21 @@ Severance Hall,SEV 223,Single
 Severance Hall,SEV 133,Single 
 Severance Hall,SEV 224,Res Staff 
 Severance Hall,SEV 225,Single 
-Severance Hall,SEV 134,Single
+Severance Hall,SEV 134,Single 
 Severance Hall,SEV 226,Single 
 Severance Hall,SEV 135,Upperclass Double 
 Severance Hall,SEV 227,Upperclass Double 
 Severance Hall,SEV 228,Single 
 Severance Hall,SEV 136,Single 
-Severance Hall,SEV 229,Single
+Severance Hall,SEV 229,Single 
 Severance Hall,SEV 137,Single 
-Severance Hall,SEV 230,Single
+Severance Hall,SEV 230,Single 
 Severance Hall,SEV 138,Single 
 Severance Hall,SEV 231,Single 
 Severance Hall,SEV 232,Suite for 2 with Bathroom 
 Severance Hall,SEV 139,Single 
 Severance Hall,SEV 233,Single 
-Severance Hall,SEV 234,Quad Tower Court,TCE 114,Single 
+Severance Hall,SEV 234,Quad  
 Severance Hall,SEV 140,Single 
 Severance Hall,SEV 238,First-Year Double 
 Severance Hall,SEV 141,Single 
@@ -1231,9 +1231,10 @@ Severance Hall,SEV 211,Upperclass Double
 Severance Hall,SEV 318,Single 
 Severance Hall,SEV 212,First-Year Triple 
 Severance Hall,SEV 320,First-Year Triple 
+Tower Court,TCE 114,Single 
 Tower Court,TCE 101,Single 
 Tower Court,TCE 102,Upperclass Double 
-Tower Court,TCE 103,Upperclass Double
+Tower Court,TCE 103,Upperclass Double 
 Tower Court,TCE 104,Upperclass Double 
 Tower Court,TCE 106,Single 
 Tower Court,TCE 107,Single 

@@ -55,35 +55,60 @@ public class CollectionBuildings {
         }
     }
 
-    public String returnBuilding(String building) {
+    public String returnBuilding(String building, String roomType) {
+        String temp = "";
+        ArrayList<RoomCollection> tempTypes = buildingCollection.get(building);// temperary roomtypes building currently
+                                                                               // ha
+        int num = tempTypes.indexOf(roomType);
+        temp += tempTypes.get(num).getType();
+        temp += "\n";
+        ArrayList<Room> tempRooms = tempTypes.get(num).getList();
+        for (int j = 0; j < tempRooms.size(); j++) {
+            temp += tempRooms.get(j).toString();
+            temp += "\n";
+        }
+        temp += "\n";
+        return temp;
+    }
+
+    public String returnRoomTypes(String building) {
         String temp = "";
         ArrayList<RoomCollection> tempTypes = buildingCollection.get(building);// temperary roomtypes building currently
                                                                                // has
         int num = tempTypes.size();
-        System.out.println("Number of rooms - " + num + "\n");
+        System.out.println("Types of rooms avalible- " + num);
 
         for (int i = 0; i < num; i++) {
-            temp+= tempTypes.get(i).getType();
-            temp += "\n";
-            ArrayList<Room> tempRooms = tempTypes.get(i).getList();
-            for (int j = 0; j < tempRooms.size(); j++) {
-                temp += tempRooms.get(j).toString();
-                temp += "\n";
-            }
+            temp += tempTypes.get(i).getType();
             temp += "\n";
         }
-
         return temp;
     }
 
-    public String toString() {
+    public String returnRooms(String building, String roomType) {
+        String retourner = "Here are your room options." + "\n";
+        ArrayList<RoomCollection> temp = buildingCollection.get(building);
+        for (int i = 0; i < temp.size(); i++) {
+            if (((ArrayList<Room>) (temp.get(i).getList())).get(0).getLocation().equals(building)
+                    && ((ArrayList<Room>) (temp.get(i).getList())).get(0).getType().equals(roomType)) {
+                // We've found our collection of rooms
+                ArrayList<Room> isabelle = temp.get(i).getList();
+                for (int j = 0; j < isabelle.size(); j++) {
+                    retourner += isabelle.get(j) + "\n";
+                }
+            }
+        }
+        return retourner;
+    }
+
+    public String returnTypes() {
         // returns the list of the roomTypes for that building.
         String retourner = "These are your options: ";
         Collection<ArrayList<RoomCollection>> values = buildingCollection.values();
         Iterator<ArrayList<RoomCollection>> iter = values.iterator();
         while (iter.hasNext()) {
             ArrayList<RoomCollection> i = iter.next();
-            for (int j=0; j<i.size(); j++) {
+            for (int j = 0; j < i.size(); j++) {
                 retourner += i.get(j).getType() + ", ";
             }
         }
@@ -92,7 +117,10 @@ public class CollectionBuildings {
 
     public static void main(String[] args) throws IOException {
         CollectionBuildings test = new CollectionBuildings();
-        System.out.println(test.returnBuilding("Munger"));
+        // System.out.println(test.returnBuilding("Tower Court"));
+        // System.out.println(test.toString());
+        // System.out.println(test.returnRoomTypes("Bates"));
+        System.out.println(test.returnRooms("Stone Davis", "First-Year Double "));
     }
 
 }

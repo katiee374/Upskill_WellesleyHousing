@@ -1,68 +1,88 @@
+import java.io.IOException;
 import java.util.*;
 
 public class SimulateHousing {
 
-    public SimulateHousing() {
+    private String buildingName;
+    private final String[] dorms = { "Bates", "Stone Davis", "Freeman", "McAfee", "Beebe", "Cazenove", "Munger",
+            "Bates",
+            "Pomeroy", "Shafer", "Claflin", "Tower Court", "Lake House", "Severance Hall" };
 
-    }
+    private CollectionBuildings wellesley;
 
-    private void HungerGames(){
-        Scanner bob = new Scanner(System.in);
-        String n1 = "Which dorm would you like to live in?" + 
-        "\nPick one: Caz, Beebe, Munger, Pom, Shafer, Stone D, " +
-        "McAfee, Bates, Sev, Claf, Tower Court, Lake House, or Freeman.";
-        String n2 = "What type of dorm room would you like to live?" + 
-        "\nPick one: single, double, triple.";
-        String n3 = "Here's your options!";
-        String n4 = "Uh oh spaghetti oh, that's an invalid input";
-        System.out.println(n1);
-        String response = bob.nextLine();
-        if(response.equalsIgnoreCase("Caz")){
-            
-        }else if(response.equalsIgnoreCase("Beebe")){
-
-        }else if(response.equalsIgnoreCase("Munger")){
-
-        }else if(response.equalsIgnoreCase("Pom")){
-
-        }else if(response.equalsIgnoreCase("Shafer")){
-        
-        }else if(response.equalsIgnoreCase("Stone D")){
-
-        }else if(response.equalsIgnoreCase("McAfee")){
-
-        }else if(response.equalsIgnoreCase("Bates")){
-
-        }else if(response.equalsIgnoreCase("Sev")){
-
-        }else if(response.equalsIgnoreCase("Claf")){
-
-        }else if(response.equalsIgnoreCase("Tower Court")){
-
-        }else if(response.equalsIgnoreCase("Lake House")){
-
-        }else if(response.equalsIgnoreCase("Freeman")){
-
-        }else{
-            System.out.println(n4);
-            //this needs to figure out how to redo....?
-        }
-
-
-    }
-
-    private String chooseRoomType(String building) {
+    public SimulateHousing() throws IOException {
+        wellesley = new CollectionBuildings();
         Scanner scan = new Scanner(System.in);
+        String response = "";
+        String roomTypesList = "";
+        String result = "";
+        ArrayList<String> roomTypes = new ArrayList<String>();
+        String roomType = "";
+        do {
+            System.out.println("Which dorm would you like to live in?" +
+                    "\nPick one: Bates, Stone Davis, Freeman, McAfee, Beebe, Cazenove, Munger, Bates, Pomeroy, Shafer, Claflin, Tower Court, Lake House, Severance Hall\n");
+            buildingType = scan.nextLine();
+            response = returnRoomTypes(response);
+        } while (response.equals("Building not found! Try again"));
+        roomTypesList = response;
 
-        String n2 = "What type of dorm room would you like to live?" + 
-        "\n" + buildingCollections.get(i).toString();
-        scan.nextLine();
+        Scanner scanRoomsTypes = new Scanner(roomTypesList);
+        scanRoomsTypes.nextLine();
+        while (scanRoomsTypes.hasNextLine()) {
+            roomTypes.add(scanRoomsTypes.nextLine());
+        }
+            scanRoomsTypes.close();
+ // checks room types exists
+       // boolean found = false;
+       // do {
+            System.out.println("What type of room would you like to live in?");
+            System.out.println(roomTypesList);
+            roomType = scan.nextLine()+" ";
+            
+            /*for (int i = 0; i < roomTypes.size(); i++) {
+                if (response.equalsIgnoreCase(roomTypes.get(i))) {
+                    found = true;
+                    roomType = roomTypes.get(i); 
+                } else {
+                    System.out.println("Building Type not Found. Try Again!!");
+                }
+            }
+        } while (!found);
+              
+*/
+        result = wellesley.returnRooms(buildingName, roomType);
+        System.out.println(result);
+
+        scan.close();
+
     }
 
-    //I know that at the end what we should do is
-    //System.out.println(RoomCollection (whichever one it it).toString()); 
-    //This will print out that person's options. 
-    public static void main(String[] args) {
+    public String returnRoomTypes(String input) {
 
+        for (int i = 0; i < dorms.length; i++) {
+            if (input.equalsIgnoreCase(input)) {
+                buildingName = dorms[i];
+                return wellesley.returnRoomTypes(dorms[i]);
+            }
+        }
+        return "Building not found! Try again";
+    }
+
+    
+    
+
+    /*
+     * private String chooseRoomType(String building) {
+     * Scanner scan = new Scanner(System.in);
+     * String n2 = "What type of dorm room would you like to live?" +
+     * "\n" + buildingCollections.get(i).toString();
+     * scan.nextLine();
+     * }
+     */
+    // I know that at the end what we should do is
+    // System.out.println(RoomCollection (whichever one it it).toString());
+    // This will print out that person's options.
+    public static void main(String[] args) throws IOException {
+        SimulateHousing test = new SimulateHousing();
     }
 }
