@@ -11,7 +11,7 @@ BAT 313 Single BAT 502 SingleBAT 122 First-Year Double
 BAT 315 Single BAT 503 SingleBAT 201 Single 
 Pre-Halled Student Leader Room House President Room BAT 504 Single
 BAT 316 Upperclass Double
- BAT 202 First-Year Double BAT 505 SinglePre-Halled Student Leader Room BAT 203 Single BAT 317 SingleBAT 204 First-Year Double BAT 318 Upperclass DoubleBAT 205 Single DAVIS BAT 319 SingleBAT 206 First-Year Double BAT 320 Upperclass Double DAV 057 Res Staff 
+ BAT 202 First-Year Double BAT 505 SinglePre-Halled Student Leader Room BAT 203 Single BAT 317 SingleBAT 204 First-Year Double BAT 318 Upperclass DoubleBAT 205 Single BAT 319 SingleBAT 206 First-Year Double BAT 320 Upperclass Double DAV 057 Res Staff 
 BAT 207 Single BAT 321 Single DAV 058 First-Year Triple 
 BAT 208 First-Year Double BAT 322 Upperclass Double DAV 059 First-Year Triple 
 BAT 209 Single Pre-Halled Student Leader Room DAV 060 First-Year Triple 
@@ -560,7 +560,7 @@ BEB 215 First-Year Double BEB 322 Upperclass Double
 	 		
 	 	 	
 	 			 		
-	 		CAZ 215 First-Year Double CAZ 331 2 Room Double CAZENOVE CAZ 216 First-Year Double CAZ 332 Upperclass Double 
+	 		CAZ 215 First-Year Double CAZ 331 2 Room Double CAZ 216 First-Year Double CAZ 332 Upperclass Double 
 CAZ 001 Single 
 CAZ 002 Single 
 CAZ 004 Single 

@@ -5,9 +5,7 @@ public class SimulateHousing {
 
     private String buildingName;
     private String roomType;
-    private final String[] dorms = { "Bates", "Stone Davis", "Freeman", "McAfee", "Beebe", "Cazenove", "Munger",
-            "Bates",
-            "Pomeroy", "Shafer", "Claflin", "Tower Court", "Lake House", "Severance Hall" };
+    private final String[] dorms = { "Bates", "Stone Davis", "Freeman", "McAfee", "Beebe", "Cazenove", "Munger", "Pomeroy", "Shafer", "Claflin", "Tower Court", "Lake House", "Severance Hall" };
 
     private CollectionBuildings wellesley;
 
@@ -18,11 +16,13 @@ public class SimulateHousing {
         String roomTypesList = ""; // list of avalible types of rooms in string form
         String result = ""; // final list of rooms
         ArrayList<String> roomTypes = new ArrayList<String>(); // list of avalible types of rooms in arrayList form
+        
+        
         do {
             System.out.println("Which dorm would you like to live in?" +
-                    "\nPick one: Bates, Stone Davis, Freeman, McAfee, Beebe, Cazenove, Munger,\n Bates, Pomeroy, Shafer, Claflin, Tower Court, Lake House, Severance Hall\n");
+                    "\nPick one: Bates, Stone Davis, Freeman, McAfee, Beebe, Cazenove, Munger,\nPomeroy, Shafer, Claflin, Tower Court, Lake House, Severance Hall\n");
             response = scan.nextLine();
-            response = returnRoomTypes(response);
+             response = returnRoomTypes(response);
             System.out.println(response);
         } while (response.equals("Building not found! Try again"));
         
@@ -45,7 +45,7 @@ public class SimulateHousing {
         do {
             System.out.println("What type of room would you like to live in?");
             response = scan.nextLine() + " ";
-            response = -returnAvalibleRooms(response, roomTypes);
+            response = returnAvalibleRooms(response, roomTypes);
             //System.out.println(response);
         } while (response.equals("Room Type not Found. Try Again!!"));
 

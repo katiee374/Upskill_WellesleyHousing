@@ -53,6 +53,11 @@ public class ProcessHousing {
     public String returnAllText() {
         return allText;
     }
+    /**
+     * 
+     * @param line text to be removed
+     * @return new text without input
+     */
     public String removeLines(String line){
         String newText = allText;
         while(newText.indexOf(line)>0){
