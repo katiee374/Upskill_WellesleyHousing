@@ -163,7 +163,6 @@ public class ProcessHousing {
         }else if(code.equals("HEM")){
             return "Hemlock,HEM ";
         }else{
-        
             return "Undefined, ";
         }
     }
