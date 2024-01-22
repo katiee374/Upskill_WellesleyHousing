@@ -28,29 +28,31 @@ public class CollectionBuildings {
         Room tempRoom;
         while (scan.hasNext()) {
             String ln = scan.nextLine();
-            // Line should be Munger,MUN 034,Single
-            String[] tokens = ln.split(",");
-            // Making the actual room
-            tempRoom = new Room(tokens[0], tokens[2], tokens[1]);
-            // Getting the collection of roomTypes ie: single, f-y double.accordin
-            // gets the roomType of that Location (building) from the collection of
-            // buildings
-            ArrayList<RoomCollection> tempTypes = buildingCollection.get(tokens[0]);// temperary roomtypes building
-                                                                                    // currently has
-            int length = tempTypes.size();
-            boolean found = false;
-            for (int i = 0; i < length; i++) { // loops and checks if roomtype exists
-                if (tempTypes.get(i).samesies(tokens[2])) {
-                    tempTypes.get(i).addRoom(tempRoom);
-                    found = true;
+           if (ln.contains("Dower") || ln.contains("Orchid") || ln.contains("Hemlock")) {
+            } else {
+                String[] tokens = ln.split(",");
+                // Making the actual room
+                tempRoom = new Room(tokens[0], tokens[2], tokens[1]);
+                // Getting the collection of roomTypes ie: single, f-y double.accordin
+                // gets the roomType of that Location (building) from the collection of
+                // buildings
+                ArrayList<RoomCollection> tempTypes = buildingCollection.get(tokens[0]);// temperary roomtypes building
+                                                                                        // currently has
+                int length = tempTypes.size();
+                boolean found = false;
+                for (int i = 0; i < length; i++) { // loops and checks if roomtype exists
+                    if (tempTypes.get(i).samesies(tokens[2])) {
+                        tempTypes.get(i).addRoom(tempRoom);
+                        found = true;
+                    }
                 }
-            }
-            // if this is a NEW type of room, create a new RoomCollection w/ tokens[2] name,
-            // and add the temp room to it
-            if (!found) {
-                RoomCollection tempRoomCollection = new RoomCollection(tokens[2]);
-                tempRoomCollection.addRoom(tempRoom);
-                tempTypes.add(tempRoomCollection);
+                // if this is a NEW type of room, create a new RoomCollection w/ tokens[2] name,
+                // and add the temp room to it
+                if (!found) {
+                    RoomCollection tempRoomCollection = new RoomCollection(tokens[2]);
+                    tempRoomCollection.addRoom(tempRoom);
+                    tempTypes.add(tempRoomCollection);
+                }
             }
         }
     }
